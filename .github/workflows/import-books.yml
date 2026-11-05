@@ -1,0 +1,48 @@
+name: Import new reference books
+
+on:
+  push:
+    paths:
+      - 'import PDFs/**/*.pdf'
+      - 'import PDFs/*.pdf'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Place newly added PDFs in Reference Books
+        shell: bash
+        run: |
+          set -euo pipefail
+          changed=$(git diff-tree --no-commit-id --name-status -r "$GITHUB_EVENT_BEFORE" "$GITHUB_SHA" | awk '$1 == "A" {print $2}' | grep -E '^import PDFs/.*\.pdf$' || true)
+          if [[ -z "$changed" ]]; then
+            echo 'No newly added PDFs to import.'
+            exit 0
+          fi
+          while IFS= read -r source; do
+            [[ -f "$source" ]] || continue
+            name=$(basename "$source")
+            target="Reference Books/$name"
+            if [[ -e "$target" ]]; then
+              echo "Skipping existing book: $target"
+              continue
+            fi
+            cp "$source" "$target"
+            rm "$source"
+          done <<< "$changed"
+      - name: Commit imported books
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add 'Reference Books' 'import PDFs'
+          if ! git diff --cached --quiet; then
+            git commit -m 'Import new reference books'
+            git push
+          fi

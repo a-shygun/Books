@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Reference Books</title>
+  <style>
+    body{font:16px/1.5 system-ui,sans-serif;max-width:900px;margin:3rem auto;padding:0 1rem;color:#172033;background:#f7f8fb}h1{margin-bottom:.25rem}#search{box-sizing:border-box;width:100%;padding:.8rem 1rem;margin:1.5rem 0;border:1px solid #b8c1d1;border-radius:8px;font:inherit}.book-list{list-style:none;padding:0}.book-list li{padding:.7rem 0;border-bottom:1px solid #dce1e9}.book-list a{color:#174ea6;text-decoration:none}.book-list a:hover{text-decoration:underline}#count{color:#536174}
+  </style>
+</head>
+<body>
+  <h1>Reference Books</h1>
+  <p>Browse and search the collection.</p>
+  <label for="search">Search books</label>
+  <input id="search" type="search" placeholder="Type a title or author…" autocomplete="off">
+  <p id="count" aria-live="polite"></p>
+  <ul class="book-list" id="books"></ul>
+  <script>
+    const base = 'Reference%20Books/';
+    const books = [
