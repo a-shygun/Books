@@ -1,0 +1,2734 @@
+[
+  {
+    "name": "Computer Organization and Architecture: Designing for Performance - William Stallings",
+    "url": "Reference%20Books/001%20-%20Computer%20Organization%20and%20Architecture%3A%20Designing%20for%20Performance%20-%20William%20Stallings.pdf"
+  },
+  {
+    "name": "Introduction to Algorithms - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+    "url": "Reference%20Books/002%20-%20Introduction%20to%20Algorithms%20-%20Thomas%20H.%20Cormen%2C%20Charles%20E.%20Leiserson%2C%20Ronald%20L.%20Rivest%2C%20Clifford%20Stein.pdf"
+  },
+  {
+    "name": "Fundamentals of Database Systems - Ramez Elmasri and Shamkant B. Navathe",
+    "url": "Reference%20Books/003%20-%20Fundamentals%20of%20Database%20Systems%20-%20Ramez%20Elmasri%20and%20Shamkant%20B.%20Navathe.pdf"
+  },
+  {
+    "name": "Computer Graphics: C Version - Donald Hearn and M. Pauline Baker",
+    "url": "Reference%20Books/004%20-%20Computer%20Graphics%3A%20C%20Version%20-%20Donald%20Hearn%20and%20M.%20Pauline%20Baker.pdf"
+  },
+  {
+    "name": "CSE 143 Lecture 5 More Stacks and Queues Complexity Big-O - Marty Stepp",
+    "url": "Reference%20Books/005%20-%20CSE%20143%20Lecture%205%20More%20Stacks%20and%20Queues%20Complexity%20Big-O%20-%20Marty%20Stepp.pdf"
+  },
+  {
+    "name": "Advanced .NET Debugging - Mario Hewardt",
+    "url": "Reference%20Books/006%20-%20Advanced%20.NET%20Debugging%20-%20Mario%20Hewardt.pdf"
+  },
+  {
+    "name": "Advanced Windows Debugging - Mario Hewardt and Daniel Pravat",
+    "url": "Reference%20Books/007%20-%20Advanced%20Windows%20Debugging%20-%20Mario%20Hewardt%20and%20Daniel%20Pravat.pdf"
+  },
+  {
+    "name": "Artificial Intelligence",
+    "url": "Reference%20Books/008%20-%20Artificial%20Intelligence.pdf"
+  },
+  {
+    "name": "C: The Complete Reference - Herbert Schildt",
+    "url": "Reference%20Books/009%20-%20C%3A%20The%20Complete%20Reference%20-%20Herbert%20Schildt.pdf"
+  },
+  {
+    "name": "C: An Advanced Introduction - Narain Gehani",
+    "url": "Reference%20Books/010%20-%20C%3A%20An%20Advanced%20Introduction%20-%20Narain%20Gehani.pdf"
+  },
+  {
+    "name": "CLR Via C - Jeffrey Richter",
+    "url": "Reference%20Books/011%20-%20CLR%20Via%20C%20-%20Jeffrey%20Richter.pdf"
+  },
+  {
+    "name": "Compilers: Principles, Techniques, and Tools - Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman",
+    "url": "Reference%20Books/012%20-%20Compilers%3A%20Principles%2C%20Techniques%2C%20and%20Tools%20-%20Alfred%20V.%20Aho%2C%20Monica%20S.%20Lam%2C%20Ravi%20Sethi%2C%20and%20Jeffrey%20D.%20Ullman.pdf"
+  },
+  {
+    "name": "Software Engineering a Practitioners Approach - Roger S Pressman",
+    "url": "Reference%20Books/013%20-%20Software%20Engineering%20a%20Practitioners%20Approach%20-%20Roger%20S%20Pressman.pdf"
+  },
+  {
+    "name": "Data Communications and Networking - Behrouz A. Forouzan",
+    "url": "Reference%20Books/014%20-%20Data%20Communications%20and%20Networking%20-%20Behrouz%20A.%20Forouzan.pdf"
+  },
+  {
+    "name": "Domain-Driven Design Quickly - Abel Avram and Floyd Marinescu",
+    "url": "Reference%20Books/015%20-%20Domain-Driven%20Design%20Quickly%20-%20Abel%20Avram%20and%20Floyd%20Marinescu.pdf"
+  },
+  {
+    "name": "Systems Programming",
+    "url": "Reference%20Books/016%20-%20Systems%20Programming.pdf"
+  },
+  {
+    "name": "Essential Scrum - Kenneth S. Rubin",
+    "url": "Reference%20Books/017%20-%20Essential%20Scrum%20-%20Kenneth%20S.%20Rubin.pdf"
+  },
+  {
+    "name": "Expert C Programming Deep C Secrets - Peter Van Der Linden",
+    "url": "Reference%20Books/018%20-%20Expert%20C%20Programming%20Deep%20C%20Secrets%20-%20Peter%20Van%20Der%20Linden.pdf"
+  },
+  {
+    "name": "Expert Python Programming",
+    "url": "Reference%20Books/019%20-%20Expert%20Python%20Programming.pdf"
+  },
+  {
+    "name": "Head First Python - Paul Barry",
+    "url": "Reference%20Books/020%20-%20Head%20First%20Python%20-%20Paul%20Barry.pdf"
+  },
+  {
+    "name": "Java the Complete Reference - Herbert Schildt",
+    "url": "Reference%20Books/021%20-%20Java%20the%20Complete%20Reference%20-%20Herbert%20Schildt.pdf"
+  },
+  {
+    "name": "Jumping into C",
+    "url": "Reference%20Books/022%20-%20Jumping%20into%20C.pdf"
+  },
+  {
+    "name": "A Tour of C - Bjarne Stroustrup",
+    "url": "Reference%20Books/023%20-%20A%20Tour%20of%20C%20-%20Bjarne%20Stroustrup.pdf"
+  },
+  {
+    "name": "Mobile Communications - Jochen Schiller",
+    "url": "Reference%20Books/024%20-%20Mobile%20Communications%20-%20Jochen%20Schiller.pdf"
+  },
+  {
+    "name": "Distributed Process Management - Teamb",
+    "url": "Reference%20Books/025%20-%20Distributed%20Process%20Management%20-%20Teamb.pdf"
+  },
+  {
+    "name": "The Data Compression Book - Mark Nelson",
+    "url": "Reference%20Books/026%20-%20The%20Data%20Compression%20Book%20-%20Mark%20Nelson.pdf"
+  },
+  {
+    "name": "HTML Pocket Reference - Jennifer Niederst Robbins",
+    "url": "Reference%20Books/027%20-%20HTML%20Pocket%20Reference%20-%20Jennifer%20Niederst%20Robbins.pdf"
+  },
+  {
+    "name": "IPv6 Essentials - Administrator@CRM",
+    "url": "Reference%20Books/028%20-%20IPv6%20Essentials%20-%20Administrator%40CRM.pdf"
+  },
+  {
+    "name": "JavaScript Application Cookbook - Jerry Bradenbaugh",
+    "url": "Reference%20Books/029%20-%20JavaScript%20Application%20Cookbook%20-%20Jerry%20Bradenbaugh.pdf"
+  },
+  {
+    "name": "Learning Oracle PL-SQL - KnowledgeLiberation",
+    "url": "Reference%20Books/030%20-%20Learning%20Oracle%20PL-SQL%20-%20KnowledgeLiberation.pdf"
+  },
+  {
+    "name": "The C Standard Library - Nicolai M. Josuttis",
+    "url": "Reference%20Books/031%20-%20The%20C%20Standard%20Library%20-%20Nicolai%20M.%20Josuttis.pdf"
+  },
+  {
+    "name": "Learning Python - Mark Lutz",
+    "url": "Reference%20Books/032%20-%20Learning%20Python%20-%20Mark%20Lutz.pdf"
+  },
+  {
+    "name": "Learning the Unix Operating System",
+    "url": "Reference%20Books/033%20-%20Learning%20the%20Unix%20Operating%20System.pdf"
+  },
+  {
+    "name": "Learning the Vi and Vim Editors",
+    "url": "Reference%20Books/034%20-%20Learning%20the%20Vi%20and%20Vim%20Editors.pdf"
+  },
+  {
+    "name": "Learning the Vi Editor - Administrator",
+    "url": "Reference%20Books/035%20-%20Learning%20the%20Vi%20Editor%20-%20Administrator.pdf"
+  },
+  {
+    "name": "Alphabetical Directory of Linux Commands",
+    "url": "Reference%20Books/036%20-%20Alphabetical%20Directory%20of%20Linux%20Commands.pdf"
+  },
+  {
+    "name": "Linux Network Administrators Guide",
+    "url": "Reference%20Books/037%20-%20Linux%20Network%20Administrators%20Guide.pdf"
+  },
+  {
+    "name": "Linux Networking Cookbook",
+    "url": "Reference%20Books/038%20-%20Linux%20Networking%20Cookbook.pdf"
+  },
+  {
+    "name": "Hackers Delight",
+    "url": "Reference%20Books/039%20-%20Hackers%20Delight.pdf"
+  },
+  {
+    "name": "Mastering Regular Expressions",
+    "url": "Reference%20Books/040%20-%20Mastering%20Regular%20Expressions.pdf"
+  },
+  {
+    "name": "MySQL Cookbook - Paul DuBois",
+    "url": "Reference%20Books/041%20-%20MySQL%20Cookbook%20-%20Paul%20DuBois.pdf"
+  },
+  {
+    "name": "MySQL Pocket Reference",
+    "url": "Reference%20Books/042%20-%20MySQL%20Pocket%20Reference.pdf"
+  },
+  {
+    "name": "Practical C Programming - Sa",
+    "url": "Reference%20Books/043%20-%20Practical%20C%20Programming%20-%20Sa.pdf"
+  },
+  {
+    "name": "Python XML - Christopher A. Jones and Fred L. Drake Jr",
+    "url": "Reference%20Books/044%20-%20Python%20XML%20-%20Christopher%20A.%20Jones%20and%20Fred%20L.%20Drake%20Jr.pdf"
+  },
+  {
+    "name": "Modern C Design Generic Programming and Design Patterns Applied - John Vlissides",
+    "url": "Reference%20Books/045%20-%20Modern%20C%20Design%20Generic%20Programming%20and%20Design%20Patterns%20Applied%20-%20John%20Vlissides.pdf"
+  },
+  {
+    "name": "Python for Unix and Linux System Administration",
+    "url": "Reference%20Books/046%20-%20Python%20for%20Unix%20and%20Linux%20System%20Administration.pdf"
+  },
+  {
+    "name": "Real World Instrumentation with Python - J. M. Hughes",
+    "url": "Reference%20Books/047%20-%20Real%20World%20Instrumentation%20with%20Python%20-%20J.%20M.%20Hughes.pdf"
+  },
+  {
+    "name": "Ruby in a Nutshell",
+    "url": "Reference%20Books/048%20-%20Ruby%20in%20a%20Nutshell.pdf"
+  },
+  {
+    "name": "Running Linux - Matthias Kalle Dalheimer, Terry Dawson, Lar Kaufman, Matt Welsh",
+    "url": "Reference%20Books/049%20-%20Running%20Linux%20-%20Matthias%20Kalle%20Dalheimer%2C%20Terry%20Dawson%2C%20Lar%20Kaufman%2C%20Matt%20Welsh.pdf"
+  },
+  {
+    "name": "Sed and Awk - Dale Dougherty and Arnold Robbins",
+    "url": "Reference%20Books/050%20-%20Sed%20and%20Awk%20-%20Dale%20Dougherty%20and%20Arnold%20Robbins.pdf"
+  },
+  {
+    "name": "Server Load Balancing",
+    "url": "Reference%20Books/051%20-%20Server%20Load%20Balancing.pdf"
+  },
+  {
+    "name": "SSH the Secure Shell the Definitive Guide - Cryptographic Key",
+    "url": "Reference%20Books/052%20-%20SSH%20the%20Secure%20Shell%20the%20Definitive%20Guide%20-%20Cryptographic%20Key.pdf"
+  },
+  {
+    "name": "Accelerated C++: Practical Programming by Example - Andrew Koenig and Barbara E. Moo",
+    "url": "Reference%20Books/053%20-%20Accelerated%20C%2B%2B%3A%20Practical%20Programming%20by%20Example%20-%20Andrew%20Koenig%20and%20Barbara%20E.%20Moo.pdf"
+  },
+  {
+    "name": "The Productive Programmer",
+    "url": "Reference%20Books/054%20-%20The%20Productive%20Programmer.pdf"
+  },
+  {
+    "name": "A Byte of Python - Swaroop C H",
+    "url": "Reference%20Books/055%20-%20A%20Byte%20of%20Python%20-%20Swaroop%20C%20H.pdf"
+  },
+  {
+    "name": "Understanding the Linux Kernel - Daniel P. Bovet and Marco Cesati",
+    "url": "Reference%20Books/056%20-%20Understanding%20the%20Linux%20Kernel%20-%20Daniel%20P.%20Bovet%20and%20Marco%20Cesati.pdf"
+  },
+  {
+    "name": "C How to Program - Paul Deitel and Harvey Deitel",
+    "url": "Reference%20Books/057%20-%20C%20How%20to%20Program%20-%20Paul%20Deitel%20and%20Harvey%20Deitel.pdf"
+  },
+  {
+    "name": "Operating System Concepts - Abraham Silberschatz, Peter B. Gagne, Greg Gagne",
+    "url": "Reference%20Books/058%20-%20Operating%20System%20Concepts%20-%20Abraham%20Silberschatz%2C%20Peter%20B.%20Gagne%2C%20Greg%20Gagne.pdf"
+  },
+  {
+    "name": "Patterns for Parallel Programming",
+    "url": "Reference%20Books/059%20-%20Patterns%20for%20Parallel%20Programming.pdf"
+  },
+  {
+    "name": "Pragmatic Guide to Git - Travis Swicegood",
+    "url": "Reference%20Books/060%20-%20Pragmatic%20Guide%20to%20Git%20-%20Travis%20Swicegood.pdf"
+  },
+  {
+    "name": "Data Science from Scratch - Joel Grus",
+    "url": "Reference%20Books/061%20-%20Data%20Science%20from%20Scratch%20-%20Joel%20Grus.pdf"
+  },
+  {
+    "name": "Principles of Distributed Database Systems - M. Tamer Özsu, Patrick Valduriez",
+    "url": "Reference%20Books/062%20-%20Principles%20of%20Distributed%20Database%20Systems%20-%20M.%20Tamer%20O%CC%88zsu%2C%20Patrick%20Valduriez.pdf"
+  },
+  {
+    "name": "Pro .NET Performance Optimize Your C Applications - Sasha Goldshtein and Dima Zurbalev and Ido Flatow",
+    "url": "Reference%20Books/063%20-%20Pro%20.NET%20Performance%20Optimize%20Your%20C%20Applications%20-%20Sasha%20Goldshtein%20and%20Dima%20Zurbalev%20and%20Ido%20Flatow.pdf"
+  },
+  {
+    "name": "Python Create, Modify, Reuse",
+    "url": "Reference%20Books/064%20-%20Python%20Create%2C%20Modify%2C%20Reuse.pdf"
+  },
+  {
+    "name": "Python Power the Comprehensive Guide - Matt Telles",
+    "url": "Reference%20Books/065%20-%20Python%20Power%20the%20Comprehensive%20Guide%20-%20Matt%20Telles.pdf"
+  },
+  {
+    "name": "Rx Design Guidelines",
+    "url": "Reference%20Books/066%20-%20Rx%20Design%20Guidelines.pdf"
+  },
+  {
+    "name": "Software Engineering - Ian Sommerville",
+    "url": "Reference%20Books/067%20-%20Software%20Engineering%20-%20Ian%20Sommerville.pdf"
+  },
+  {
+    "name": "Succeeding with Agile",
+    "url": "Reference%20Books/068%20-%20Succeeding%20with%20Agile.pdf"
+  },
+  {
+    "name": "Systems Analysis and Design in a Changing World - John W. Satzinger",
+    "url": "Reference%20Books/069%20-%20Systems%20Analysis%20and%20Design%20in%20a%20Changing%20World%20-%20John%20W.%20Satzinger.pdf"
+  },
+  {
+    "name": "Humancomputer Interaction - Alan Dix",
+    "url": "Reference%20Books/070%20-%20Humancomputer%20Interaction%20-%20Alan%20Dix.pdf"
+  },
+  {
+    "name": "The Essential Guide to User Interface Design - Wilbert O. Galitz",
+    "url": "Reference%20Books/071%20-%20The%20Essential%20Guide%20to%20User%20Interface%20Design%20-%20Wilbert%20O.%20Galitz.pdf"
+  },
+  {
+    "name": "About Face 3 the Essentials of Interaction Design - Alan Cooper, Robert Reimann, David Cronin",
+    "url": "Reference%20Books/072%20-%20About%20Face%203%20the%20Essentials%20of%20Interaction%20Design%20-%20Alan%20Cooper%2C%20Robert%20Reimann%2C%20David%20Cronin.pdf"
+  },
+  {
+    "name": "Designing with the Mind in Mind",
+    "url": "Reference%20Books/073%20-%20Designing%20with%20the%20Mind%20in%20Mind.pdf"
+  },
+  {
+    "name": "The Design of Everyday Things",
+    "url": "Reference%20Books/074%20-%20The%20Design%20of%20Everyday%20Things.pdf"
+  },
+  {
+    "name": "The Quick Python Book - Vernon L. Ceder",
+    "url": "Reference%20Books/075%20-%20The%20Quick%20Python%20Book%20-%20Vernon%20L.%20Ceder.pdf"
+  },
+  {
+    "name": "The Art of Unit Testing - Roy Osherove",
+    "url": "Reference%20Books/076%20-%20The%20Art%20of%20Unit%20Testing%20-%20Roy%20Osherove.pdf"
+  },
+  {
+    "name": "The Python Standard Library by Example - Doug Hellmann",
+    "url": "Reference%20Books/077%20-%20The%20Python%20Standard%20Library%20by%20Example%20-%20Doug%20Hellmann.pdf"
+  },
+  {
+    "name": "C Concurrency in Action - Anthony Williams",
+    "url": "Reference%20Books/078%20-%20C%20Concurrency%20in%20Action%20-%20Anthony%20Williams.pdf"
+  },
+  {
+    "name": "UML",
+    "url": "Reference%20Books/079%20-%20UML.pdf"
+  },
+  {
+    "name": "When Should I Use Parallelforeach When Should I Use PLINQ - Pavaga",
+    "url": "Reference%20Books/080%20-%20When%20Should%20I%20Use%20Parallelforeach%20When%20Should%20I%20Use%20PLINQ%20-%20Pavaga.pdf"
+  },
+  {
+    "name": "Windows Internals Part 1 - Mark Russinovich, David A. Solomon, Alex Ionescu",
+    "url": "Reference%20Books/081%20-%20Windows%20Internals%20Part%201%20-%20Mark%20Russinovich%2C%20David%20A.%20Solomon%2C%20Alex%20Ionescu.pdf"
+  },
+  {
+    "name": "Windows Internals Part 2 - Mark Russinovich, David A. Solomon, Alex Ionescu",
+    "url": "Reference%20Books/082%20-%20Windows%20Internals%20Part%202%20-%20Mark%20Russinovich%2C%20David%20A.%20Solomon%2C%20Alex%20Ionescu.pdf"
+  },
+  {
+    "name": "WinRT Revealed",
+    "url": "Reference%20Books/083%20-%20WinRT%20Revealed.pdf"
+  },
+  {
+    "name": "XML Schema Essentials",
+    "url": "Reference%20Books/084%20-%20XML%20Schema%20Essentials.pdf"
+  },
+  {
+    "name": "Creating Your MySQL Database Practical Design Tips and Techniques",
+    "url": "Reference%20Books/085%20-%20Creating%20Your%20MySQL%20Database%20Practical%20Design%20Tips%20and%20Techniques.pdf"
+  },
+  {
+    "name": "Graph Databases - Ian Robinson, Jim Webber, and Emil Eifrem",
+    "url": "Reference%20Books/086%20-%20Graph%20Databases%20-%20Ian%20Robinson%2C%20Jim%20Webber%2C%20and%20Emil%20Eifrem.pdf"
+  },
+  {
+    "name": "Learning Azure DocumentDB",
+    "url": "Reference%20Books/087%20-%20Learning%20Azure%20DocumentDB.pdf"
+  },
+  {
+    "name": "Learning Neo4j",
+    "url": "Reference%20Books/088%20-%20Learning%20Neo4j.pdf"
+  },
+  {
+    "name": "Learning PostgreSQL",
+    "url": "Reference%20Books/089%20-%20Learning%20PostgreSQL.pdf"
+  },
+  {
+    "name": "Mastering RethinkDB",
+    "url": "Reference%20Books/090%20-%20Mastering%20RethinkDB.pdf"
+  },
+  {
+    "name": "Microsoft SQL Azure Enterprise Application Development",
+    "url": "Reference%20Books/091%20-%20Microsoft%20SQL%20Azure%20Enterprise%20Application%20Development.pdf"
+  },
+  {
+    "name": "Microsoft SQL Server 2012 Integration Services an Expert Cookbook",
+    "url": "Reference%20Books/092%20-%20Microsoft%20SQL%20Server%202012%20Integration%20Services%20an%20Expert%20Cookbook.pdf"
+  },
+  {
+    "name": "MongoDB Basics",
+    "url": "Reference%20Books/093%20-%20MongoDB%20Basics.pdf"
+  },
+  {
+    "name": "MySQL for Python",
+    "url": "Reference%20Books/094%20-%20MySQL%20for%20Python.pdf"
+  },
+  {
+    "name": "Oracle Database 11gr2 Performance Tuning Cookbook",
+    "url": "Reference%20Books/095%20-%20Oracle%20Database%2011gr2%20Performance%20Tuning%20Cookbook.pdf"
+  },
+  {
+    "name": "PostgreSQL 9 Administration Cookbook",
+    "url": "Reference%20Books/096%20-%20PostgreSQL%209%20Administration%20Cookbook.pdf"
+  },
+  {
+    "name": "PostgreSQL 9 High Availability Cookbook",
+    "url": "Reference%20Books/097%20-%20PostgreSQL%209%20High%20Availability%20Cookbook.pdf"
+  },
+  {
+    "name": "PostgreSQL Development Essentials",
+    "url": "Reference%20Books/098%20-%20PostgreSQL%20Development%20Essentials.pdf"
+  },
+  {
+    "name": "PostgreSQL Server Programming",
+    "url": "Reference%20Books/099%20-%20PostgreSQL%20Server%20Programming.pdf"
+  },
+  {
+    "name": "SQL Server 2014 Development Essentials",
+    "url": "Reference%20Books/100%20-%20SQL%20Server%202014%20Development%20Essentials.pdf"
+  },
+  {
+    "name": "SQL Server 2016 Reporting Services Cookbook",
+    "url": "Reference%20Books/101%20-%20SQL%20Server%202016%20Reporting%20Services%20Cookbook.pdf"
+  },
+  {
+    "name": "The Definitive Guide to MongoDB",
+    "url": "Reference%20Books/102%20-%20The%20Definitive%20Guide%20to%20MongoDB.pdf"
+  },
+  {
+    "name": "Advanced Bashscripting Guide",
+    "url": "Reference%20Books/103%20-%20Advanced%20Bashscripting%20Guide.pdf"
+  },
+  {
+    "name": "Automate It Recipes to Upskill Your Business - Giridhar, Chetan",
+    "url": "Reference%20Books/104%20-%20Automate%20It%20Recipes%20to%20Upskill%20Your%20Business%20-%20Giridhar%2C%20Chetan.pdf"
+  },
+  {
+    "name": "Clean Code a Handbook of Agile Software Craftsmanship",
+    "url": "Reference%20Books/105%20-%20Clean%20Code%20a%20Handbook%20of%20Agile%20Software%20Craftsmanship.pdf"
+  },
+  {
+    "name": "Beginning the Linux Command Line",
+    "url": "Reference%20Books/106%20-%20Beginning%20the%20Linux%20Command%20Line.pdf"
+  },
+  {
+    "name": "Building Microservices - Sam Newman",
+    "url": "Reference%20Books/107%20-%20Building%20Microservices%20-%20Sam%20Newman.pdf"
+  },
+  {
+    "name": "CentOS 6 Linux Server Cookbook",
+    "url": "Reference%20Books/108%20-%20CentOS%206%20Linux%20Server%20Cookbook.pdf"
+  },
+  {
+    "name": "Continuous Delivery and DevOps a Quickstart Guide",
+    "url": "Reference%20Books/109%20-%20Continuous%20Delivery%20and%20DevOps%20a%20Quickstart%20Guide.pdf"
+  },
+  {
+    "name": "CoreOS Essentials",
+    "url": "Reference%20Books/110%20-%20CoreOS%20Essentials.pdf"
+  },
+  {
+    "name": "Designing and Implementing Linux Firewalls and QoS Using Netfilter Iproute2 NAT Andl7filter",
+    "url": "Reference%20Books/111%20-%20Designing%20and%20Implementing%20Linux%20Firewalls%20and%20QoS%20Using%20Netfilter%20Iproute2%20NAT%20Andl7filter.pdf"
+  },
+  {
+    "name": "Developing Microservices with Node.js",
+    "url": "Reference%20Books/112%20-%20Developing%20Microservices%20with%20Node.js.pdf"
+  },
+  {
+    "name": "DevOps Automation Cookbook",
+    "url": "Reference%20Books/113%20-%20DevOps%20Automation%20Cookbook.pdf"
+  },
+  {
+    "name": "DevOps Bootcamp a Fastpaced Guide to Implement DevOps with Ease - Soni, Mitesh",
+    "url": "Reference%20Books/114%20-%20DevOps%20Bootcamp%20a%20Fastpaced%20Guide%20to%20Implement%20DevOps%20with%20Ease%20-%20Soni%2C%20Mitesh.pdf"
+  },
+  {
+    "name": "DevOps for Networking",
+    "url": "Reference%20Books/115%20-%20DevOps%20for%20Networking.pdf"
+  },
+  {
+    "name": "DevOps for Web Development",
+    "url": "Reference%20Books/116%20-%20DevOps%20for%20Web%20Development.pdf"
+  },
+  {
+    "name": "DevOps on the Microsoft Stack",
+    "url": "Reference%20Books/117%20-%20DevOps%20on%20the%20Microsoft%20Stack.pdf"
+  },
+  {
+    "name": "DevOps with Windows Server 2016",
+    "url": "Reference%20Books/118%20-%20DevOps%20with%20Windows%20Server%202016.pdf"
+  },
+  {
+    "name": "DEVOPS DBAS AND DBAAS",
+    "url": "Reference%20Books/119%20-%20DEVOPS%20DBAS%20AND%20DBAAS.pdf"
+  },
+  {
+    "name": "Effective DevOps - Jennifer Davis",
+    "url": "Reference%20Books/120%20-%20Effective%20DevOps%20-%20Jennifer%20Davis.pdf"
+  },
+  {
+    "name": "Getting Started with Tmux",
+    "url": "Reference%20Books/121%20-%20Getting%20Started%20with%20Tmux.pdf"
+  },
+  {
+    "name": "GNU-Linux Advanced Administration",
+    "url": "Reference%20Books/122%20-%20GNU-Linux%20Advanced%20Administration.pdf"
+  },
+  {
+    "name": "Implementing DevOps on AWS",
+    "url": "Reference%20Books/123%20-%20Implementing%20DevOps%20on%20AWS.pdf"
+  },
+  {
+    "name": "Implementing Modern DevOps - David Gonzalez",
+    "url": "Reference%20Books/124%20-%20Implementing%20Modern%20DevOps%20-%20David%20Gonzalez.pdf"
+  },
+  {
+    "name": "Infrastructure as Code IaC Cookbook",
+    "url": "Reference%20Books/125%20-%20Infrastructure%20as%20Code%20IaC%20Cookbook.pdf"
+  },
+  {
+    "name": "Jenkins Essentials",
+    "url": "Reference%20Books/126%20-%20Jenkins%20Essentials.pdf"
+  },
+  {
+    "name": "Learn Windows PowerShell 3in a Month of Lunches - Don Jones, Jeffery Hicks",
+    "url": "Reference%20Books/127%20-%20Learn%20Windows%20PowerShell%203in%20a%20Month%20of%20Lunches%20-%20Don%20Jones%2C%20Jeffery%20Hicks.pdf"
+  },
+  {
+    "name": "Learning Continuousintegration with Jenkins",
+    "url": "Reference%20Books/128%20-%20Learning%20Continuousintegration%20with%20Jenkins.pdf"
+  },
+  {
+    "name": "Learning DevOps Continuously Deliver Better Software - Verona, Joakim, Duffy, Michael, Swartout, Paul",
+    "url": "Reference%20Books/129%20-%20Learning%20DevOps%20Continuously%20Deliver%20Better%20Software%20-%20Verona%2C%20Joakim%2C%20Duffy%2C%20Michael%2C%20Swartout%2C%20Paul.pdf"
+  },
+  {
+    "name": "Learning Linux Shell Scripting",
+    "url": "Reference%20Books/130%20-%20Learning%20Linux%20Shell%20Scripting.pdf"
+  },
+  {
+    "name": "Learning Shell Scripting with Zsh",
+    "url": "Reference%20Books/131%20-%20Learning%20Shell%20Scripting%20with%20Zsh.pdf"
+  },
+  {
+    "name": "Linux Bible - Christopher Negus",
+    "url": "Reference%20Books/132%20-%20Linux%20Bible%20-%20Christopher%20Negus.pdf"
+  },
+  {
+    "name": "Linux Email Set Up Maintain and Secure a Small Office Email Server",
+    "url": "Reference%20Books/133%20-%20Linux%20Email%20Set%20Up%20Maintain%20and%20Secure%20a%20Small%20Office%20Email%20Server.pdf"
+  },
+  {
+    "name": "Linux Email Set Up and Run a Small Office Email Server - Paramita",
+    "url": "Reference%20Books/134%20-%20Linux%20Email%20Set%20Up%20and%20Run%20a%20Small%20Office%20Email%20Server%20-%20Paramita.pdf"
+  },
+  {
+    "name": "Linux for Dummies - Richard Blum",
+    "url": "Reference%20Books/135%20-%20Linux%20for%20Dummies%20-%20Richard%20Blum.pdf"
+  },
+  {
+    "name": "Linux in a Nutshell",
+    "url": "Reference%20Books/136%20-%20Linux%20in%20a%20Nutshell.pdf"
+  },
+  {
+    "name": "Linux Mint Essentials",
+    "url": "Reference%20Books/137%20-%20Linux%20Mint%20Essentials.pdf"
+  },
+  {
+    "name": "Exceptional C 47 Engineering Puzzlesprogramming Problems and Solutions - Acampo GmbH",
+    "url": "Reference%20Books/138%20-%20Exceptional%20C%2047%20Engineering%20Puzzlesprogramming%20Problems%20and%20Solutions%20-%20Acampo%20GmbH.pdf"
+  },
+  {
+    "name": "Linux Pocket Guide - Daniel J. Barrett",
+    "url": "Reference%20Books/139%20-%20Linux%20Pocket%20Guide%20-%20Daniel%20J.%20Barrett.pdf"
+  },
+  {
+    "name": "Linux Shell Scriptingcookbook",
+    "url": "Reference%20Books/140%20-%20Linux%20Shell%20Scriptingcookbook.pdf"
+  },
+  {
+    "name": "Linux Shell Scripting Essentials",
+    "url": "Reference%20Books/141%20-%20Linux%20Shell%20Scripting%20Essentials.pdf"
+  },
+  {
+    "name": "Linux Thin Client Networks Design and Deployment",
+    "url": "Reference%20Books/142%20-%20Linux%20Thin%20Client%20Networks%20Design%20and%20Deployment.pdf"
+  },
+  {
+    "name": "Linux Utilities Cookbook",
+    "url": "Reference%20Books/143%20-%20Linux%20Utilities%20Cookbook.pdf"
+  },
+  {
+    "name": "Mastering Linux Shell Scripting",
+    "url": "Reference%20Books/144%20-%20Mastering%20Linux%20Shell%20Scripting.pdf"
+  },
+  {
+    "name": "Mastering Linux - Wang, Paul S",
+    "url": "Reference%20Books/145%20-%20Mastering%20Linux%20-%20Wang%2C%20Paul%20S.pdf"
+  },
+  {
+    "name": "Mastering Wireshark",
+    "url": "Reference%20Books/146%20-%20Mastering%20Wireshark.pdf"
+  },
+  {
+    "name": "Mesos in Action",
+    "url": "Reference%20Books/147%20-%20Mesos%20in%20Action.pdf"
+  },
+  {
+    "name": "Microservices Building Scalable Software - Sharma, Sourabh, RV, Rajesh, Gonzalez, David",
+    "url": "Reference%20Books/148%20-%20Microservices%20Building%20Scalable%20Software%20-%20Sharma%2C%20Sourabh%2C%20RV%2C%20Rajesh%2C%20Gonzalez%2C%20David.pdf"
+  },
+  {
+    "name": "Microservices Flexible Software Architecture - Eberhard Wolff",
+    "url": "Reference%20Books/149%20-%20Microservices%20Flexible%20Software%20Architecture%20-%20Eberhard%20Wolff.pdf"
+  },
+  {
+    "name": "Microservices Deployment Cookbook - Murugesan, Vikram",
+    "url": "Reference%20Books/150%20-%20Microservices%20Deployment%20Cookbook%20-%20Murugesan%2C%20Vikram.pdf"
+  },
+  {
+    "name": "Microservices from Day One",
+    "url": "Reference%20Books/151%20-%20Microservices%20from%20Day%20One.pdf"
+  },
+  {
+    "name": "Modern Linux Administration",
+    "url": "Reference%20Books/152%20-%20Modern%20Linux%20Administration.pdf"
+  },
+  {
+    "name": "Nmap Essentials",
+    "url": "Reference%20Books/153%20-%20Nmap%20Essentials.pdf"
+  },
+  {
+    "name": "PowerShell in Depth - Don Jones, Richard Siddaway, Jeffery Hicks",
+    "url": "Reference%20Books/154%20-%20PowerShell%20in%20Depth%20-%20Don%20Jones%2C%20Richard%20Siddaway%2C%20Jeffery%20Hicks.pdf"
+  },
+  {
+    "name": "PowerShell in Practice - Richard Siddaway",
+    "url": "Reference%20Books/155%20-%20PowerShell%20in%20Practice%20-%20Richard%20Siddaway.pdf"
+  },
+  {
+    "name": "PowerShell Succinctly - Rui Machado",
+    "url": "Reference%20Books/156%20-%20PowerShell%20Succinctly%20-%20Rui%20Machado.pdf"
+  },
+  {
+    "name": "Practical DevOps",
+    "url": "Reference%20Books/157%20-%20Practical%20DevOps.pdf"
+  },
+  {
+    "name": "Pro Bash Programming Scripting the GNU-Linux Shell",
+    "url": "Reference%20Books/158%20-%20Pro%20Bash%20Programming%20Scripting%20the%20GNU-Linux%20Shell.pdf"
+  },
+  {
+    "name": "Pro Continuous Delivery with Jenkins 20",
+    "url": "Reference%20Books/159%20-%20Pro%20Continuous%20Delivery%20with%20Jenkins%2020.pdf"
+  },
+  {
+    "name": "REST API Design Rulebook - Mark Massé",
+    "url": "Reference%20Books/160%20-%20REST%20API%20Design%20Rulebook%20-%20Mark%20Masse%CC%81.pdf"
+  },
+  {
+    "name": "Selinux System Administration",
+    "url": "Reference%20Books/161%20-%20Selinux%20System%20Administration.pdf"
+  },
+  {
+    "name": "Shell Scripting Recipes a Problemsolution Approach",
+    "url": "Reference%20Books/162%20-%20Shell%20Scripting%20Recipes%20a%20Problemsolution%20Approach.pdf"
+  },
+  {
+    "name": "The DevOps 20 Toolkit Automating the Continuous Deployment Pipeline with Containerized Microservices",
+    "url": "Reference%20Books/163%20-%20The%20DevOps%2020%20Toolkit%20Automating%20the%20Continuous%20Deployment%20Pipeline%20with%20Containerized%20Microservices.pdf"
+  },
+  {
+    "name": "The DevOps 21 Toolkit Docker Swarm - Viktor Farcic",
+    "url": "Reference%20Books/164%20-%20The%20DevOps%2021%20Toolkit%20Docker%20Swarm%20-%20Viktor%20Farcic.pdf"
+  },
+  {
+    "name": "The DevOps Adoption Playbook",
+    "url": "Reference%20Books/165%20-%20The%20DevOps%20Adoption%20Playbook.pdf"
+  },
+  {
+    "name": "The Linux Command Line a Complete Introduction",
+    "url": "Reference%20Books/166%20-%20The%20Linux%20Command%20Line%20a%20Complete%20Introduction.pdf"
+  },
+  {
+    "name": "The Linux Programming Interface",
+    "url": "Reference%20Books/167%20-%20The%20Linux%20Programming%20Interface.pdf"
+  },
+  {
+    "name": "Tmux Master",
+    "url": "Reference%20Books/168%20-%20Tmux%20Master.pdf"
+  },
+  {
+    "name": "X Power Tools - Safari Books Online LLC",
+    "url": "Reference%20Books/169%20-%20X%20Power%20Tools%20-%20Safari%20Books%20Online%20LLC.pdf"
+  },
+  {
+    "name": "Vagrant Virtual Development Environment Cookbook",
+    "url": "Reference%20Books/170%20-%20Vagrant%20Virtual%20Development%20Environment%20Cookbook.pdf"
+  },
+  {
+    "name": "Windows PowerShell 30 First Steps - Ed Wilson",
+    "url": "Reference%20Books/171%20-%20Windows%20PowerShell%2030%20First%20Steps%20-%20Ed%20Wilson.pdf"
+  },
+  {
+    "name": "Windows PowerShell Cookbook",
+    "url": "Reference%20Books/172%20-%20Windows%20PowerShell%20Cookbook.pdf"
+  },
+  {
+    "name": "Windows PowerShell in Action - Bruce Payette",
+    "url": "Reference%20Books/173%20-%20Windows%20PowerShell%20in%20Action%20-%20Bruce%20Payette.pdf"
+  },
+  {
+    "name": "Windows PowerShell Pocket Reference - Lee Holmes",
+    "url": "Reference%20Books/174%20-%20Windows%20PowerShell%20Pocket%20Reference%20-%20Lee%20Holmes.pdf"
+  },
+  {
+    "name": "Wireshark Essentials",
+    "url": "Reference%20Books/175%20-%20Wireshark%20Essentials.pdf"
+  },
+  {
+    "name": "Wireshark Network Security",
+    "url": "Reference%20Books/176%20-%20Wireshark%20Network%20Security.pdf"
+  },
+  {
+    "name": "Working with Linux Quick Hacks for the Command Line - I?fan, Petru, Vaida, Bogdan",
+    "url": "Reference%20Books/177%20-%20Working%20with%20Linux%20Quick%20Hacks%20for%20the%20Command%20Line%20-%20I%3Ffan%2C%20Petru%2C%20Vaida%2C%20Bogdan.pdf"
+  },
+  {
+    "name": "Your Unixlinux the Ultimate Guide",
+    "url": "Reference%20Books/178%20-%20Your%20Unixlinux%20the%20Ultimate%20Guide.pdf"
+  },
+  {
+    "name": "Pro SQL Server Internals",
+    "url": "Reference%20Books/179%20-%20Pro%20SQL%20Server%20Internals.pdf"
+  },
+  {
+    "name": "Data Structures and Algorithms in Python - Michael T. Goodrich",
+    "url": "Reference%20Books/180%20-%20Data%20Structures%20and%20Algorithms%20in%20Python%20-%20Michael%20T.%20Goodrich.pdf"
+  },
+  {
+    "name": "Data Structures and Algorithms with JavaScript - Michael McMillan",
+    "url": "Reference%20Books/181%20-%20Data%20Structures%20and%20Algorithms%20with%20JavaScript%20-%20Michael%20McMillan.pdf"
+  },
+  {
+    "name": "Programming Pearls",
+    "url": "Reference%20Books/182%20-%20Programming%20Pearls.pdf"
+  },
+  {
+    "name": "Data Structures and Algorithms Made Easy - Narasimha Karumanchi",
+    "url": "Reference%20Books/183%20-%20Data%20Structures%20and%20Algorithms%20Made%20Easy%20-%20Narasimha%20Karumanchi.pdf"
+  },
+  {
+    "name": "Data Structures and Algorithms with Python",
+    "url": "Reference%20Books/184%20-%20Data%20Structures%20and%20Algorithms%20with%20Python.pdf"
+  },
+  {
+    "name": "Diskbased Algorithms for Big Data - Christopher G. Healey",
+    "url": "Reference%20Books/185%20-%20Diskbased%20Algorithms%20for%20Big%20Data%20-%20Christopher%20G.%20Healey.pdf"
+  },
+  {
+    "name": "Dynamic Programming a Computational Tool - Art Lew and Holger Mauch",
+    "url": "Reference%20Books/186%20-%20Dynamic%20Programming%20a%20Computational%20Tool%20-%20Art%20Lew%20and%20Holger%20Mauch.pdf"
+  },
+  {
+    "name": "Grokking Algorithms an Illustrated Guide for Programmers and Other Curious People - Aditya Y. Bhargava",
+    "url": "Reference%20Books/187%20-%20Grokking%20Algorithms%20an%20Illustrated%20Guide%20for%20Programmers%20and%20Other%20Curious%20People%20-%20Aditya%20Y.%20Bhargava.pdf"
+  },
+  {
+    "name": "Introduction to Algorithms - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+    "url": "Reference%20Books/188%20-%20Introduction%20to%20Algorithms%20-%20Thomas%20H.%20Cormen%2C%20Charles%20E.%20Leiserson%2C%20Ronald%20L.%20Rivest%2C%20Clifford%20Stein.pdf"
+  },
+  {
+    "name": "Learning F Functional Data Structures and Algorithms",
+    "url": "Reference%20Books/189%20-%20Learning%20F%20Functional%20Data%20Structures%20and%20Algorithms.pdf"
+  },
+  {
+    "name": "Learning JavaScript Data Structures and Algorithms",
+    "url": "Reference%20Books/190%20-%20Learning%20JavaScript%20Data%20Structures%20and%20Algorithms.pdf"
+  },
+  {
+    "name": "Mathematics and Physics for Programmers",
+    "url": "Reference%20Books/191%20-%20Mathematics%20and%20Physics%20for%20Programmers.pdf"
+  },
+  {
+    "name": "Python Algorithms - Magnus Lie Hetland",
+    "url": "Reference%20Books/192%20-%20Python%20Algorithms%20-%20Magnus%20Lie%20Hetland.pdf"
+  },
+  {
+    "name": "Sets Logic and Maths for Computing",
+    "url": "Reference%20Books/193%20-%20Sets%20Logic%20and%20Maths%20for%20Computing.pdf"
+  },
+  {
+    "name": "The Algorithm Design Manual",
+    "url": "Reference%20Books/194%20-%20The%20Algorithm%20Design%20Manual.pdf"
+  },
+  {
+    "name": "Deep Learning with Python a Handson Introduction",
+    "url": "Reference%20Books/195%20-%20Deep%20Learning%20with%20Python%20a%20Handson%20Introduction.pdf"
+  },
+  {
+    "name": "Deep Learning with Python - François Chollet",
+    "url": "Reference%20Books/196%20-%20Deep%20Learning%20with%20Python%20-%20Franc%CC%A7ois%20Chollet.pdf"
+  },
+  {
+    "name": "Discovering Modern C an Intensive Course for Scientists Engineers and Programmers - Peter Gottschling",
+    "url": "Reference%20Books/197%20-%20Discovering%20Modern%20C%20an%20Intensive%20Course%20for%20Scientists%20Engineers%20and%20Programmers%20-%20Peter%20Gottschling.pdf"
+  },
+  {
+    "name": "Effective STL 50 Specific Ways to Improve Your Use of the Standard Template Library - Scott Meyers",
+    "url": "Reference%20Books/198%20-%20Effective%20STL%2050%20Specific%20Ways%20to%20Improve%20Your%20Use%20of%20the%20Standard%20Template%20Library%20-%20Scott%20Meyers.pdf"
+  },
+  {
+    "name": "C: The Complete Reference - Herbert Schildt",
+    "url": "Reference%20Books/199%20-%20C%3A%20The%20Complete%20Reference%20-%20Herbert%20Schildt.pdf"
+  },
+  {
+    "name": "Hadoop with Python - Zachary Radtka and Donald Miner",
+    "url": "Reference%20Books/200%20-%20Hadoop%20with%20Python%20-%20Zachary%20Radtka%20and%20Donald%20Miner.pdf"
+  },
+  {
+    "name": "HMI Framework 20 User Guide",
+    "url": "Reference%20Books/201%20-%20HMI%20Framework%2020%20User%20Guide.pdf"
+  },
+  {
+    "name": "LEARN PYTHON THE HARD WAY a Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code - Zed A. Shaw",
+    "url": "Reference%20Books/202%20-%20LEARN%20PYTHON%20THE%20HARD%20WAY%20a%20Very%20Simple%20Introduction%20to%20the%20Terrifyingly%20Beautiful%20World%20of%20Computers%20and%20Code%20-%20Zed%20A.%20Shaw.pdf"
+  },
+  {
+    "name": "Numerical Recipes in C the Art of Scientific Computing",
+    "url": "Reference%20Books/203%20-%20Numerical%20Recipes%20in%20C%20the%20Art%20of%20Scientific%20Computing.pdf"
+  },
+  {
+    "name": "The Art of Computer Programming Volume 1 Fundamental Algorithms",
+    "url": "Reference%20Books/204%20-%20The%20Art%20of%20Computer%20Programming%20Volume%201%20Fundamental%20Algorithms.pdf"
+  },
+  {
+    "name": "The Art of Computer Programming Volume 3 Sorting and Searching",
+    "url": "Reference%20Books/205%20-%20The%20Art%20of%20Computer%20Programming%20Volume%203%20Sorting%20and%20Searching.pdf"
+  },
+  {
+    "name": "The Art of Computer Programming Seminumerical Algorithms",
+    "url": "Reference%20Books/206%20-%20The%20Art%20of%20Computer%20Programming%20Seminumerical%20Algorithms.pdf"
+  },
+  {
+    "name": "Effective Java",
+    "url": "Reference%20Books/207%20-%20Effective%20Java.pdf"
+  },
+  {
+    "name": "Functional Programming for Java Developers - Dean Wampler",
+    "url": "Reference%20Books/208%20-%20Functional%20Programming%20for%20Java%20Developers%20-%20Dean%20Wampler.pdf"
+  },
+  {
+    "name": "Java 8 in Action Lambdas Streams and Functionalstyle Programming",
+    "url": "Reference%20Books/209%20-%20Java%208%20in%20Action%20Lambdas%20Streams%20and%20Functionalstyle%20Programming.pdf"
+  },
+  {
+    "name": "Mastering Lambdas Java Programming in a Multicore World",
+    "url": "Reference%20Books/210%20-%20Mastering%20Lambdas%20Java%20Programming%20in%20a%20Multicore%20World.pdf"
+  },
+  {
+    "name": "Generics and Collections in Java 5",
+    "url": "Reference%20Books/211%20-%20Generics%20and%20Collections%20in%20Java%205.pdf"
+  },
+  {
+    "name": "Java 8 Lambdas - Richard Warburton",
+    "url": "Reference%20Books/212%20-%20Java%208%20Lambdas%20-%20Richard%20Warburton.pdf"
+  },
+  {
+    "name": "A Commonsense Guide to Data Structures and Algorithms",
+    "url": "Reference%20Books/213%20-%20A%20Commonsense%20Guide%20to%20Data%20Structures%20and%20Algorithms.pdf"
+  },
+  {
+    "name": "Algorithms Unlocked",
+    "url": "Reference%20Books/214%20-%20Algorithms%20Unlocked.pdf"
+  },
+  {
+    "name": "Beginning Java 8 Games Development - Java Expert and Author",
+    "url": "Reference%20Books/215%20-%20Beginning%20Java%208%20Games%20Development%20-%20Java%20Expert%20and%20Author.pdf"
+  },
+  {
+    "name": "OCA Oracle Certified Associate Java SE 8 Programmer I Study Guide Exam 1Z0808",
+    "url": "Reference%20Books/216%20-%20OCA%20Oracle%20Certified%20Associate%20Java%20SE%208%20Programmer%20I%20Study%20Guide%20Exam%201Z0808.pdf"
+  },
+  {
+    "name": "Object-Oriented Programming and Java",
+    "url": "Reference%20Books/217%20-%20Object-Oriented%20Programming%20and%20Java.pdf"
+  },
+  {
+    "name": "Algorithms to Live by - Brian Christian",
+    "url": "Reference%20Books/218%20-%20Algorithms%20to%20Live%20by%20-%20Brian%20Christian.pdf"
+  },
+  {
+    "name": "Object-Oriented Design with UML and Java - Barclay, Kenneth A., Savage, W. J",
+    "url": "Reference%20Books/219%20-%20Object-Oriented%20Design%20with%20UML%20and%20Java%20-%20Barclay%2C%20Kenneth%20A.%2C%20Savage%2C%20W.%20J.pdf"
+  },
+  {
+    "name": "Core Java Volume I Fundamentals - Horstmann, Cay S. and Cornell, Gary",
+    "url": "Reference%20Books/220%20-%20Core%20Java%20Volume%20I%20Fundamentals%20-%20Horstmann%2C%20Cay%20S.%20and%20Cornell%2C%20Gary.pdf"
+  },
+  {
+    "name": "Java for Everyone Late Objects",
+    "url": "Reference%20Books/221%20-%20Java%20for%20Everyone%20Late%20Objects.pdf"
+  },
+  {
+    "name": "An Introduction to Object-Oriented Programming with Java - C T Wu",
+    "url": "Reference%20Books/222%20-%20An%20Introduction%20to%20Object-Oriented%20Programming%20with%20Java%20-%20C%20T%20Wu.pdf"
+  },
+  {
+    "name": "Object-Oriented and Classical Software Engineering",
+    "url": "Reference%20Books/223%20-%20Object-Oriented%20and%20Classical%20Software%20Engineering.pdf"
+  },
+  {
+    "name": "Machine Learning Models and Algorithms for Big Data Classification",
+    "url": "Reference%20Books/224%20-%20Machine%20Learning%20Models%20and%20Algorithms%20for%20Big%20Data%20Classification.pdf"
+  },
+  {
+    "name": "AI in Marketing Sales and Service How Marketers Without a Data Science Degree Can Use AI Big Data and Bots",
+    "url": "Reference%20Books/225%20-%20AI%20in%20Marketing%20Sales%20and%20Service%20How%20Marketers%20Without%20a%20Data%20Science%20Degree%20Can%20Use%20AI%20Big%20Data%20and%20Bots.pdf"
+  },
+  {
+    "name": "How to Think About Algorithms - Jeff Edmonds",
+    "url": "Reference%20Books/226%20-%20How%20to%20Think%20About%20Algorithms%20-%20Jeff%20Edmonds.pdf"
+  },
+  {
+    "name": "Algorithm Design and Applications - Michael T. Goodrich",
+    "url": "Reference%20Books/227%20-%20Algorithm%20Design%20and%20Applications%20-%20Michael%20T.%20Goodrich.pdf"
+  },
+  {
+    "name": "Algorithmic Probability and Combinatorics - Manuel E. Lladser",
+    "url": "Reference%20Books/228%20-%20Algorithmic%20Probability%20and%20Combinatorics%20-%20Manuel%20E.%20Lladser.pdf"
+  },
+  {
+    "name": "Algorithms for Dummies - John Paul Mueller",
+    "url": "Reference%20Books/229%20-%20Algorithms%20for%20Dummies%20-%20John%20Paul%20Mueller.pdf"
+  },
+  {
+    "name": "Database Design for Mere Mortals a Handson Guide to Relational Database Design",
+    "url": "Reference%20Books/230%20-%20Database%20Design%20for%20Mere%20Mortals%20a%20Handson%20Guide%20to%20Relational%20Database%20Design.pdf"
+  },
+  {
+    "name": "Applied Digital Signal Processing THEORY AND Practice",
+    "url": "Reference%20Books/231%20-%20Applied%20Digital%20Signal%20Processing%20THEORY%20AND%20Practice.pdf"
+  },
+  {
+    "name": "Applied Natural Language Processing with Python",
+    "url": "Reference%20Books/232%20-%20Applied%20Natural%20Language%20Processing%20with%20Python.pdf"
+  },
+  {
+    "name": "Artificial Intelligence a Modern Approach - Stuart Russell, Peter Norvig",
+    "url": "Reference%20Books/233%20-%20Artificial%20Intelligence%20a%20Modern%20Approach%20-%20Stuart%20Russell%2C%20Peter%20Norvig.pdf"
+  },
+  {
+    "name": "Big Data Demystified How to Use Big Data Data Science and AI to Make Better Business Decisions and Gain Competitive Advantage - David Stephenson",
+    "url": "Reference%20Books/234%20-%20Big%20Data%20Demystified%20How%20to%20Use%20Big%20Data%20Data%20Science%20and%20AI%20to%20Make%20Better%20Business%20Decisions%20and%20Gain%20Competitive%20Advantage%20-%20David%20Stephenson.pdf"
+  },
+  {
+    "name": "Clean Data",
+    "url": "Reference%20Books/235%20-%20Clean%20Data.pdf"
+  },
+  {
+    "name": "Apache Spark 2x Cookbook - Yadav, Rishi",
+    "url": "Reference%20Books/236%20-%20Apache%20Spark%202x%20Cookbook%20-%20Yadav%2C%20Rishi.pdf"
+  },
+  {
+    "name": "Combinatorial and Algorithmic Aspects of Networking - Alejandro López-Ortiz and Angèle M. Hamel",
+    "url": "Reference%20Books/237%20-%20Combinatorial%20and%20Algorithmic%20Aspects%20of%20Networking%20-%20Alejandro%20Lo%CC%81pez-Ortiz%20and%20Ange%CC%80le%20M.%20Hamel.pdf"
+  },
+  {
+    "name": "Data Analytics with Hadoop an Introduction for Data Scientists - Benja Bengfort",
+    "url": "Reference%20Books/238%20-%20Data%20Analytics%20with%20Hadoop%20an%20Introduction%20for%20Data%20Scientists%20-%20Benja%20Bengfort.pdf"
+  },
+  {
+    "name": "Data Mining Algorithms in C",
+    "url": "Reference%20Books/239%20-%20Data%20Mining%20Algorithms%20in%20C.pdf"
+  },
+  {
+    "name": "Data Science for Business - Foster Provost and Tom Fawcett",
+    "url": "Reference%20Books/240%20-%20Data%20Science%20for%20Business%20-%20Foster%20Provost%20and%20Tom%20Fawcett.pdf"
+  },
+  {
+    "name": "Data Structures Problem Solving Using Java",
+    "url": "Reference%20Books/241%20-%20Data%20Structures%20Problem%20Solving%20Using%20Java.pdf"
+  },
+  {
+    "name": "Data Structures and Algorithms in C - Michael T. Goodrich",
+    "url": "Reference%20Books/242%20-%20Data%20Structures%20and%20Algorithms%20in%20C%20-%20Michael%20T.%20Goodrich.pdf"
+  },
+  {
+    "name": "Distributed Algorithms ON GRAPHS",
+    "url": "Reference%20Books/243%20-%20Distributed%20Algorithms%20ON%20GRAPHS.pdf"
+  },
+  {
+    "name": "Docker for Data Science",
+    "url": "Reference%20Books/244%20-%20Docker%20for%20Data%20Science.pdf"
+  },
+  {
+    "name": "Doing Data Science - Cathy O'Neil and Rachel Schutt",
+    "url": "Reference%20Books/245%20-%20Doing%20Data%20Science%20-%20Cathy%20O%27Neil%20and%20Rachel%20Schutt.pdf"
+  },
+  {
+    "name": "Essential Algorithms a Practical Approach to Computer Algorithms Using Python and C",
+    "url": "Reference%20Books/246%20-%20Essential%20Algorithms%20a%20Practical%20Approach%20to%20Computer%20Algorithms%20Using%20Python%20and%20C.pdf"
+  },
+  {
+    "name": "Excel Data Analysis Modeling and Simulation - Hector Guerrero",
+    "url": "Reference%20Books/247%20-%20Excel%20Data%20Analysis%20Modeling%20and%20Simulation%20-%20Hector%20Guerrero.pdf"
+  },
+  {
+    "name": "Experimental Algorithmics from Algorithm Design to Robust and Efficient Software",
+    "url": "Reference%20Books/248%20-%20Experimental%20Algorithmics%20from%20Algorithm%20Design%20to%20Robust%20and%20Efficient%20Software.pdf"
+  },
+  {
+    "name": "Fast Fourier Transform Algorithms and Applications - K.R. Rao, D.N. Kim, J.-J. Hwang",
+    "url": "Reference%20Books/249%20-%20Fast%20Fourier%20Transform%20Algorithms%20and%20Applications%20-%20K.R.%20Rao%2C%20D.N.%20Kim%2C%20J.-J.%20Hwang.pdf"
+  },
+  {
+    "name": "Introducing Data Science - Davy Cielen, Arno D. B. Meysman, and Mohamed Ali",
+    "url": "Reference%20Books/250%20-%20Introducing%20Data%20Science%20-%20Davy%20Cielen%2C%20Arno%20D.%20B.%20Meysman%2C%20and%20Mohamed%20Ali.pdf"
+  },
+  {
+    "name": "Introduction to Genetic Algorithms",
+    "url": "Reference%20Books/251%20-%20Introduction%20to%20Genetic%20Algorithms.pdf"
+  },
+  {
+    "name": "Algorithm Design - Jon Kleinberg, Éva Tardos",
+    "url": "Reference%20Books/252%20-%20Algorithm%20Design%20-%20Jon%20Kleinberg%2C%20E%CC%81va%20Tardos.pdf"
+  },
+  {
+    "name": "Analysis of Algorithms an Active Learning Approach - McConnell, Jeffrey J",
+    "url": "Reference%20Books/253%20-%20Analysis%20of%20Algorithms%20an%20Active%20Learning%20Approach%20-%20McConnell%2C%20Jeffrey%20J.pdf"
+  },
+  {
+    "name": "Machine Learning for Dummies - John Paul Mueller",
+    "url": "Reference%20Books/254%20-%20Machine%20Learning%20for%20Dummies%20-%20John%20Paul%20Mueller.pdf"
+  },
+  {
+    "name": "Machine Learning an Algorithmic Perspective - Marsland, Stephen",
+    "url": "Reference%20Books/255%20-%20Machine%20Learning%20an%20Algorithmic%20Perspective%20-%20Marsland%2C%20Stephen.pdf"
+  },
+  {
+    "name": "Mathematical Problems in Data Science",
+    "url": "Reference%20Books/256%20-%20Mathematical%20Problems%20in%20Data%20Science.pdf"
+  },
+  {
+    "name": "Algorithms and Parallel Computing - Fayez Gebali",
+    "url": "Reference%20Books/257%20-%20Algorithms%20and%20Parallel%20Computing%20-%20Fayez%20Gebali.pdf"
+  },
+  {
+    "name": "Practical Data Science Cookbook - Dasgupta, Abhijit, Ojeda, Tony, Murphy, Sean Patrick, Bengfort, Benja",
+    "url": "Reference%20Books/258%20-%20Practical%20Data%20Science%20Cookbook%20-%20Dasgupta%2C%20Abhijit%2C%20Ojeda%2C%20Tony%2C%20Murphy%2C%20Sean%20Patrick%2C%20Bengfort%2C%20Benja.pdf"
+  },
+  {
+    "name": "Practical Statistics for Data Scientists - Peter Bruce and Andrew Bruce",
+    "url": "Reference%20Books/259%20-%20Practical%20Statistics%20for%20Data%20Scientists%20-%20Peter%20Bruce%20and%20Andrew%20Bruce.pdf"
+  },
+  {
+    "name": "Python for Data Analysis Data Wrangling with Pandas Numpy and Ipython - Wes McKinney",
+    "url": "Reference%20Books/260%20-%20Python%20for%20Data%20Analysis%20Data%20Wrangling%20with%20Pandas%20Numpy%20and%20Ipython%20-%20Wes%20McKinney.pdf"
+  },
+  {
+    "name": "Scala for Data Science",
+    "url": "Reference%20Books/261%20-%20Scala%20for%20Data%20Science.pdf"
+  },
+  {
+    "name": "The Enterprise Big Data Lake Delivering the Promise of Big Data and Data Science",
+    "url": "Reference%20Books/262%20-%20The%20Enterprise%20Big%20Data%20Lake%20Delivering%20the%20Promise%20of%20Big%20Data%20and%20Data%20Science.pdf"
+  },
+  {
+    "name": "The Master Algorithm - Pedro Domingos",
+    "url": "Reference%20Books/263%20-%20The%20Master%20Algorithm%20-%20Pedro%20Domingos.pdf"
+  },
+  {
+    "name": "Agile Data Science 20 Building Fullstack Data Analytics Applications with Spark - Russell Jurney",
+    "url": "Reference%20Books/264%20-%20Agile%20Data%20Science%2020%20Building%20Fullstack%20Data%20Analytics%20Applications%20with%20Spark%20-%20Russell%20Jurney.pdf"
+  },
+  {
+    "name": "Applied DATA Science WITH PYTHON AND Jupyter",
+    "url": "Reference%20Books/265%20-%20Applied%20DATA%20Science%20WITH%20PYTHON%20AND%20Jupyter.pdf"
+  },
+  {
+    "name": "Dark Web Exploring and Data Mining the Dark Side of the Web - Hsinchun Chen",
+    "url": "Reference%20Books/266%20-%20Dark%20Web%20Exploring%20and%20Data%20Mining%20the%20Dark%20Side%20of%20the%20Web%20-%20Hsinchun%20Chen.pdf"
+  },
+  {
+    "name": "Data Mining and Knowledgediscovery for Big Data - Wesley W. Chu (ed.)",
+    "url": "Reference%20Books/267%20-%20Data%20Mining%20and%20Knowledgediscovery%20for%20Big%20Data%20-%20Wesley%20W.%20Chu%20%28ed.%29.pdf"
+  },
+  {
+    "name": "Data Mining and Knowledge Discovery Technologies - David Taniar",
+    "url": "Reference%20Books/268%20-%20Data%20Mining%20and%20Knowledge%20Discovery%20Technologies%20-%20David%20Taniar.pdf"
+  },
+  {
+    "name": "Data Mining Practical Machine Learning Tools and Techniques",
+    "url": "Reference%20Books/269%20-%20Data%20Mining%20Practical%20Machine%20Learning%20Tools%20and%20Techniques.pdf"
+  },
+  {
+    "name": "Data Mining Concepts and Techniques - Satyam Soni",
+    "url": "Reference%20Books/270%20-%20Data%20Mining%20Concepts%20and%20Techniques%20-%20Satyam%20Soni.pdf"
+  },
+  {
+    "name": "Data Preprocessing in Data Mining",
+    "url": "Reference%20Books/271%20-%20Data%20Preprocessing%20in%20Data%20Mining.pdf"
+  },
+  {
+    "name": "Data Warehousing and Data Mining",
+    "url": "Reference%20Books/272%20-%20Data%20Warehousing%20and%20Data%20Mining.pdf"
+  },
+  {
+    "name": "Data Mining Techniques",
+    "url": "Reference%20Books/273%20-%20Data%20Mining%20Techniques.pdf"
+  },
+  {
+    "name": "Deep Learning Innovations and Their Convergence with Big Data - S. Karthik, Anand Paul, N. Karthikeyan",
+    "url": "Reference%20Books/274%20-%20Deep%20Learning%20Innovations%20and%20Their%20Convergence%20with%20Big%20Data%20-%20S.%20Karthik%2C%20Anand%20Paul%2C%20N.%20Karthikeyan.pdf"
+  },
+  {
+    "name": "Frontiers in Massive Data Analysis - Спизжено У ExLib: avaxhome.ws-blogs-exLib",
+    "url": "Reference%20Books/275%20-%20Frontiers%20in%20Massive%20Data%20Analysis%20-%20%D0%A1%D0%BF%D0%B8%D0%B7%D0%B6%D0%B5%D0%BD%D0%BE%20%D0%A3%20ExLib%3A%20avaxhome.ws-blogs-exLib.pdf"
+  },
+  {
+    "name": "MAKING SENSE OF DATA I a Practical Guide to Exploratory Data Analysis and Data Mining",
+    "url": "Reference%20Books/276%20-%20MAKING%20SENSE%20OF%20DATA%20I%20a%20Practical%20Guide%20to%20Exploratory%20Data%20Analysis%20and%20Data%20Mining.pdf"
+  },
+  {
+    "name": "Mastering SQL Server 2014 Data Mining",
+    "url": "Reference%20Books/277%20-%20Mastering%20SQL%20Server%202014%20Data%20Mining.pdf"
+  },
+  {
+    "name": "Mining the Social Web Data Mining Facebook Twitter Linkedin Google Github and More",
+    "url": "Reference%20Books/278%20-%20Mining%20the%20Social%20Web%20Data%20Mining%20Facebook%20Twitter%20Linkedin%20Google%20Github%20and%20More.pdf"
+  },
+  {
+    "name": "Post Mine Repeat Social Media Data Mining Becomes Ordinary",
+    "url": "Reference%20Books/279%20-%20Post%20Mine%20Repeat%20Social%20Media%20Data%20Mining%20Becomes%20Ordinary.pdf"
+  },
+  {
+    "name": "Quantum Machine Learning",
+    "url": "Reference%20Books/280%20-%20Quantum%20Machine%20Learning.pdf"
+  },
+  {
+    "name": "Transparent Data Mining for Big and Small Data",
+    "url": "Reference%20Books/281%20-%20Transparent%20Data%20Mining%20for%20Big%20and%20Small%20Data.pdf"
+  },
+  {
+    "name": "Understanding Complex Datasets Data Mining with Matrix Decompositions",
+    "url": "Reference%20Books/282%20-%20Understanding%20Complex%20Datasets%20Data%20Mining%20with%20Matrix%20Decompositions.pdf"
+  },
+  {
+    "name": "Data Preparation for Data Mining Using SAS - Mamdouh Refaat",
+    "url": "Reference%20Books/283%20-%20Data%20Preparation%20for%20Data%20Mining%20Using%20SAS%20-%20Mamdouh%20Refaat.pdf"
+  },
+  {
+    "name": "Adaptive Stream Mining Pattern Learning and Mining from Evolving Data Streams - A. Bifet",
+    "url": "Reference%20Books/284%20-%20Adaptive%20Stream%20Mining%20Pattern%20Learning%20and%20Mining%20from%20Evolving%20Data%20Streams%20-%20A.%20Bifet.pdf"
+  },
+  {
+    "name": "Advanced Data Mining Techniques",
+    "url": "Reference%20Books/285%20-%20Advanced%20Data%20Mining%20Techniques.pdf"
+  },
+  {
+    "name": "Advances in Data Mining Applications in Medicineweb Mining Marketing Image and Signal Mining - Petra Perner",
+    "url": "Reference%20Books/286%20-%20Advances%20in%20Data%20Mining%20Applications%20in%20Medicineweb%20Mining%20Marketing%20Image%20and%20Signal%20Mining%20-%20Petra%20Perner.pdf"
+  },
+  {
+    "name": "Big Data Data Mining and Machine Learning Value Creation for Business Leaders and Practitioners - Dean, Jared",
+    "url": "Reference%20Books/287%20-%20Big%20Data%20Data%20Mining%20and%20Machine%20Learning%20Value%20Creation%20for%20Business%20Leaders%20and%20Practitioners%20-%20Dean%2C%20Jared.pdf"
+  },
+  {
+    "name": "Discovering Knowledge IN DATA an Introduction to Data Mining - Larose, Daniel T",
+    "url": "Reference%20Books/288%20-%20Discovering%20Knowledge%20IN%20DATA%20an%20Introduction%20to%20Data%20Mining%20-%20Larose%2C%20Daniel%20T.pdf"
+  },
+  {
+    "name": "Web Data Mining Exploring Hyperlinks Contents and Usage Data - Bing Liu",
+    "url": "Reference%20Books/289%20-%20Web%20Data%20Mining%20Exploring%20Hyperlinks%20Contents%20and%20Usage%20Data%20-%20Bing%20Liu.pdf"
+  },
+  {
+    "name": "Introduction to R Data Mining - iLLuSioN",
+    "url": "Reference%20Books/290%20-%20Introduction%20to%20R%20Data%20Mining%20-%20iLLuSioN.pdf"
+  },
+  {
+    "name": "Cracking Codes Cryptograms for Dummies - Sutherland, Denise., Koltko-Rivera, Mark., Hodapp, Christopher",
+    "url": "Reference%20Books/291%20-%20Cracking%20Codes%20Cryptograms%20for%20Dummies%20-%20Sutherland%2C%20Denise.%2C%20Koltko-Rivera%2C%20Mark.%2C%20Hodapp%2C%20Christopher.pdf"
+  },
+  {
+    "name": "Kotlin for Android Developers - Antonio Leiva",
+    "url": "Reference%20Books/292%20-%20Kotlin%20for%20Android%20Developers%20-%20Antonio%20Leiva.pdf"
+  },
+  {
+    "name": "Refactoring Improving the Design of Existing Code - Martin Fowler",
+    "url": "Reference%20Books/293%20-%20Refactoring%20Improving%20the%20Design%20of%20Existing%20Code%20-%20Martin%20Fowler.pdf"
+  },
+  {
+    "name": "MATLAB Codes for Finite Element Analysis - A. J. M. Ferreira",
+    "url": "Reference%20Books/294%20-%20MATLAB%20Codes%20for%20Finite%20Element%20Analysis%20-%20A.%20J.%20M.%20Ferreira.pdf"
+  },
+  {
+    "name": "PEARLS OF Functional Algorithm DESIGN - Bird, Richard",
+    "url": "Reference%20Books/295%20-%20PEARLS%20OF%20Functional%20Algorithm%20DESIGN%20-%20Bird%2C%20Richard.pdf"
+  },
+  {
+    "name": "Pro Android with Kotlin Developing Modern Mobile Apps",
+    "url": "Reference%20Books/296%20-%20Pro%20Android%20with%20Kotlin%20Developing%20Modern%20Mobile%20Apps.pdf"
+  },
+  {
+    "name": "Professional Android Sensor Programming - Greg Milette",
+    "url": "Reference%20Books/297%20-%20Professional%20Android%20Sensor%20Programming%20-%20Greg%20Milette.pdf"
+  },
+  {
+    "name": "Programming Kotlin - Samuel, Stephen, Bocutiu, Stefan",
+    "url": "Reference%20Books/298%20-%20Programming%20Kotlin%20-%20Samuel%2C%20Stephen%2C%20Bocutiu%2C%20Stefan.pdf"
+  },
+  {
+    "name": "Teach Your Kids to Code",
+    "url": "Reference%20Books/299%20-%20Teach%20Your%20Kids%20to%20Code.pdf"
+  },
+  {
+    "name": "Coding Projects in Python - DK",
+    "url": "Reference%20Books/300%20-%20Coding%20Projects%20in%20Python%20-%20DK.pdf"
+  },
+  {
+    "name": "Cracking THE CODING Interview - Gayle Laakmann",
+    "url": "Reference%20Books/301%20-%20Cracking%20THE%20CODING%20Interview%20-%20Gayle%20Laakmann.pdf"
+  },
+  {
+    "name": "Android Development with Kotlin - Marcin Moskala and Igor Wojda",
+    "url": "Reference%20Books/302%20-%20Android%20Development%20with%20Kotlin%20-%20Marcin%20Moskala%20and%20Igor%20Wojda.pdf"
+  },
+  {
+    "name": "C GEMS",
+    "url": "Reference%20Books/303%20-%20C%20GEMS.pdf"
+  },
+  {
+    "name": "Code the Hidden Language of Computer Hardware and Software - Charles Petzold",
+    "url": "Reference%20Books/304%20-%20Code%20the%20Hidden%20Language%20of%20Computer%20Hardware%20and%20Software%20-%20Charles%20Petzold.pdf"
+  },
+  {
+    "name": "Java Database Programming with JDBC - Pratik Patel",
+    "url": "Reference%20Books/305%20-%20Java%20Database%20Programming%20with%20JDBC%20-%20Pratik%20Patel.pdf"
+  },
+  {
+    "name": "RMAN Recipes for Oracle Database 12c - Darl Kuhn",
+    "url": "Reference%20Books/306%20-%20RMAN%20Recipes%20for%20Oracle%20Database%2012c%20-%20Darl%20Kuhn.pdf"
+  },
+  {
+    "name": "Database Design Know It All - Toby J. Teorey",
+    "url": "Reference%20Books/307%20-%20Database%20Design%20Know%20It%20All%20-%20Toby%20J.%20Teorey.pdf"
+  },
+  {
+    "name": "Database System Concepts - Abraham Silberschatz",
+    "url": "Reference%20Books/308%20-%20Database%20System%20Concepts%20-%20Abraham%20Silberschatz.pdf"
+  },
+  {
+    "name": "Expert Oracle Database Architecture",
+    "url": "Reference%20Books/309%20-%20Expert%20Oracle%20Database%20Architecture.pdf"
+  },
+  {
+    "name": "Data Structures and Algorithms for Big Databases",
+    "url": "Reference%20Books/310%20-%20Data%20Structures%20and%20Algorithms%20for%20Big%20Databases.pdf"
+  },
+  {
+    "name": "Beginning Databasedriven Application Development in Java EE Using Glassfish",
+    "url": "Reference%20Books/311%20-%20Beginning%20Databasedriven%20Application%20Development%20in%20Java%20EE%20Using%20Glassfish.pdf"
+  },
+  {
+    "name": "Mastering PostgreSQL 10 - Schönig, Hans-Jürgen",
+    "url": "Reference%20Books/312%20-%20Mastering%20PostgreSQL%2010%20-%20Scho%CC%88nig%2C%20Hans-Ju%CC%88rgen.pdf"
+  },
+  {
+    "name": "The Database Hackers Handbook Defending Database Servers",
+    "url": "Reference%20Books/313%20-%20The%20Database%20Hackers%20Handbook%20Defending%20Database%20Servers.pdf"
+  },
+  {
+    "name": "Android Database Programming",
+    "url": "Reference%20Books/314%20-%20Android%20Database%20Programming.pdf"
+  },
+  {
+    "name": "Practical MongoDB Architecting Developing and Administering MongoDB",
+    "url": "Reference%20Books/315%20-%20Practical%20MongoDB%20Architecting%20Developing%20and%20Administering%20MongoDB.pdf"
+  },
+  {
+    "name": "Databases for Small Business - Anna Manning",
+    "url": "Reference%20Books/316%20-%20Databases%20for%20Small%20Business%20-%20Anna%20Manning.pdf"
+  },
+  {
+    "name": "SQL for Dummies - Taylor, Allen G",
+    "url": "Reference%20Books/317%20-%20SQL%20for%20Dummies%20-%20Taylor%2C%20Allen%20G.pdf"
+  },
+  {
+    "name": "C Database Development",
+    "url": "Reference%20Books/318%20-%20C%20Database%20Development.pdf"
+  },
+  {
+    "name": "Databases Theory and Applications",
+    "url": "Reference%20Books/319%20-%20Databases%20Theory%20and%20Applications.pdf"
+  },
+  {
+    "name": "Database Solutions a Stepbystep Guide to Building Databases - Jo Prentice",
+    "url": "Reference%20Books/320%20-%20Database%20Solutions%20a%20Stepbystep%20Guide%20to%20Building%20Databases%20-%20Jo%20Prentice.pdf"
+  },
+  {
+    "name": "New Trends in Databases and Information Systems",
+    "url": "Reference%20Books/321%20-%20New%20Trends%20in%20Databases%20and%20Information%20Systems.pdf"
+  },
+  {
+    "name": "Databases Demystified - Andy Oppel",
+    "url": "Reference%20Books/322%20-%20Databases%20Demystified%20-%20Andy%20Oppel.pdf"
+  },
+  {
+    "name": "Coders at Work Reflections on the Craft of Programming - Shor03",
+    "url": "Reference%20Books/323%20-%20Coders%20at%20Work%20Reflections%20on%20the%20Craft%20of%20Programming%20-%20Shor03.pdf"
+  },
+  {
+    "name": "Microsoft ASPNET 4 Step by Step - George Shepherd",
+    "url": "Reference%20Books/324%20-%20Microsoft%20ASPNET%204%20Step%20by%20Step%20-%20George%20Shepherd.pdf"
+  },
+  {
+    "name": "Coding for Beginners - Mike McGrath",
+    "url": "Reference%20Books/325%20-%20Coding%20for%20Beginners%20-%20Mike%20McGrath.pdf"
+  },
+  {
+    "name": "Elements of Programming Interviews in Java - Adnan Aziz, Tsung-Hsien Lee, Amit Prakash",
+    "url": "Reference%20Books/326%20-%20Elements%20of%20Programming%20Interviews%20in%20Java%20-%20Adnan%20Aziz%2C%20Tsung-Hsien%20Lee%2C%20Amit%20Prakash.pdf"
+  },
+  {
+    "name": "Essential XML Quick Reference",
+    "url": "Reference%20Books/327%20-%20Essential%20XML%20Quick%20Reference.pdf"
+  },
+  {
+    "name": "Hello Ruby Adventures in Coding",
+    "url": "Reference%20Books/328%20-%20Hello%20Ruby%20Adventures%20in%20Coding.pdf"
+  },
+  {
+    "name": "Testdriven Development by Example",
+    "url": "Reference%20Books/329%20-%20Testdriven%20Development%20by%20Example.pdf"
+  },
+  {
+    "name": "Computer Networks and Internets",
+    "url": "Reference%20Books/330%20-%20Computer%20Networks%20and%20Internets.pdf"
+  },
+  {
+    "name": "Code Craft the Practice of Writing Excellent Code",
+    "url": "Reference%20Books/331%20-%20Code%20Craft%20the%20Practice%20of%20Writing%20Excellent%20Code.pdf"
+  },
+  {
+    "name": "Programming Arduino Getting Started with Sketches - Simon Monk",
+    "url": "Reference%20Books/332%20-%20Programming%20Arduino%20Getting%20Started%20with%20Sketches%20-%20Simon%20Monk.pdf"
+  },
+  {
+    "name": "Essential XML Quick Reference Structure and Interpretation of Computer Programs - Harold Abelson, Gerald Jay Sussman, Julie Sussman",
+    "url": "Reference%20Books/333%20-%20Essential%20XML%20Quick%20Reference%20Structure%20and%20Interpretation%20of%20Computer%20Programs%20-%20Harold%20Abelson%2C%20Gerald%20Jay%20Sussman%2C%20Julie%20Sussman.pdf"
+  },
+  {
+    "name": "Soft Skills the Software Developers Life Manual",
+    "url": "Reference%20Books/334%20-%20Soft%20Skills%20the%20Software%20Developers%20Life%20Manual.pdf"
+  },
+  {
+    "name": "Writing Solid Code",
+    "url": "Reference%20Books/335%20-%20Writing%20Solid%20Code.pdf"
+  },
+  {
+    "name": "Xquery 10 an XML Query Language",
+    "url": "Reference%20Books/336%20-%20Xquery%2010%20an%20XML%20Query%20Language.pdf"
+  },
+  {
+    "name": "The Mythical Manmonth Essays on Software Engineering - Frederick Brooks",
+    "url": "Reference%20Books/337%20-%20The%20Mythical%20Manmonth%20Essays%20on%20Software%20Engineering%20-%20Frederick%20Brooks.pdf"
+  },
+  {
+    "name": "Concepts OF Programming Languages",
+    "url": "Reference%20Books/338%20-%20Concepts%20OF%20Programming%20Languages.pdf"
+  },
+  {
+    "name": "The Ruby Programming Language - David Flanagan",
+    "url": "Reference%20Books/339%20-%20The%20Ruby%20Programming%20Language%20-%20David%20Flanagan.pdf"
+  },
+  {
+    "name": "Foundations of Python Network Programming",
+    "url": "Reference%20Books/340%20-%20Foundations%20of%20Python%20Network%20Programming.pdf"
+  },
+  {
+    "name": "The Swift Programming Language - Apple Inc",
+    "url": "Reference%20Books/341%20-%20The%20Swift%20Programming%20Language%20-%20Apple%20Inc.pdf"
+  },
+  {
+    "name": "R Programming for Bioinformatics",
+    "url": "Reference%20Books/342%20-%20R%20Programming%20for%20Bioinformatics.pdf"
+  },
+  {
+    "name": "Programming Language Pragmatics - Michael L. Scott",
+    "url": "Reference%20Books/343%20-%20Programming%20Language%20Pragmatics%20-%20Michael%20L.%20Scott.pdf"
+  },
+  {
+    "name": "The Go Programming Language - Alan A. A. Donovan",
+    "url": "Reference%20Books/344%20-%20The%20Go%20Programming%20Language%20-%20Alan%20A.%20A.%20Donovan.pdf"
+  },
+  {
+    "name": "Data Communication and Computer Network Tutorial - Manisha Shejwal",
+    "url": "Reference%20Books/345%20-%20Data%20Communication%20and%20Computer%20Network%20Tutorial%20-%20Manisha%20Shejwal.pdf"
+  },
+  {
+    "name": "Java Program Design Principles Polymorphism and Patterns",
+    "url": "Reference%20Books/346%20-%20Java%20Program%20Design%20Principles%20Polymorphism%20and%20Patterns.pdf"
+  },
+  {
+    "name": "Hacking Wireless Networks for Dummies - Beaver, Kevin., Davis, Peter T",
+    "url": "Reference%20Books/347%20-%20Hacking%20Wireless%20Networks%20for%20Dummies%20-%20Beaver%2C%20Kevin.%2C%20Davis%2C%20Peter%20T.pdf"
+  },
+  {
+    "name": "Tools for Teaching Computer Networking and Hardware Concepts - Nurul Sarkar",
+    "url": "Reference%20Books/348%20-%20Tools%20for%20Teaching%20Computer%20Networking%20and%20Hardware%20Concepts%20-%20Nurul%20Sarkar.pdf"
+  },
+  {
+    "name": "Sams Teach Yourself Networking in 24 Hours - Hayden, Matt",
+    "url": "Reference%20Books/349%20-%20Sams%20Teach%20Yourself%20Networking%20in%2024%20Hours%20-%20Hayden%2C%20Matt.pdf"
+  },
+  {
+    "name": "TCPIP Network Administration",
+    "url": "Reference%20Books/350%20-%20TCPIP%20Network%20Administration.pdf"
+  },
+  {
+    "name": "Networking Fundamentals",
+    "url": "Reference%20Books/351%20-%20Networking%20Fundamentals.pdf"
+  },
+  {
+    "name": "Computer Network Security and Cyber Ethics - Kizza, Joseph Migga",
+    "url": "Reference%20Books/352%20-%20Computer%20Network%20Security%20and%20Cyber%20Ethics%20-%20Kizza%2C%20Joseph%20Migga.pdf"
+  },
+  {
+    "name": "Red Hat Linux Networking and System Administration - Collings, Terry., Wall, Kurt",
+    "url": "Reference%20Books/353%20-%20Red%20Hat%20Linux%20Networking%20and%20System%20Administration%20-%20Collings%2C%20Terry.%2C%20Wall%2C%20Kurt.pdf"
+  },
+  {
+    "name": "Routing and Switching Essentials Companion Guide - Cisco Networking Academy",
+    "url": "Reference%20Books/354%20-%20Routing%20and%20Switching%20Essentials%20Companion%20Guide%20-%20Cisco%20Networking%20Academy.pdf"
+  },
+  {
+    "name": "More Effective C 50 Specific Ways to Improve Your C",
+    "url": "Reference%20Books/355%20-%20More%20Effective%20C%2050%20Specific%20Ways%20to%20Improve%20Your%20C.pdf"
+  },
+  {
+    "name": "The Soul of a New Machine - Tracy Kidder",
+    "url": "Reference%20Books/356%20-%20The%20Soul%20of%20a%20New%20Machine%20-%20Tracy%20Kidder.pdf"
+  },
+  {
+    "name": "Agile Principles Patterns and Practices in C - Robert C. Martin",
+    "url": "Reference%20Books/357%20-%20Agile%20Principles%20Patterns%20and%20Practices%20in%20C%20-%20Robert%20C.%20Martin.pdf"
+  },
+  {
+    "name": "Superintelligence Paths Dangers Strategies - Nick Bostrom",
+    "url": "Reference%20Books/358%20-%20Superintelligence%20Paths%20Dangers%20Strategies%20-%20Nick%20Bostrom.pdf"
+  },
+  {
+    "name": "Concrete Mathematics - Knuth Graham Patashnik - Simon Plouffe",
+    "url": "Reference%20Books/359%20-%20Concrete%20Mathematics%20-%20Knuth%20Graham%20Patashnik%20-%20Simon%20Plouffe.pdf"
+  },
+  {
+    "name": "PC Hardware a Beginners Guide",
+    "url": "Reference%20Books/360%20-%20PC%20Hardware%20a%20Beginners%20Guide.pdf"
+  },
+  {
+    "name": "Angular Material - Swetha Prasanna",
+    "url": "Reference%20Books/361%20-%20Angular%20Material%20-%20Swetha%20Prasanna.pdf"
+  },
+  {
+    "name": "Schaums Outline of Computer Graphics - By Zhigang Xiang, Roy A. Plastock",
+    "url": "Reference%20Books/362%20-%20Schaums%20Outline%20of%20Computer%20Graphics%20-%20By%20Zhigang%20Xiang%2C%20Roy%20A.%20Plastock.pdf"
+  },
+  {
+    "name": "Digital Logic and Computer Design",
+    "url": "Reference%20Books/363%20-%20Digital%20Logic%20and%20Computer%20Design.pdf"
+  },
+  {
+    "name": "Discrete Mathematics for Computer Science - Gary Haggard, John Schlipf, Sue Whitesides",
+    "url": "Reference%20Books/364%20-%20Discrete%20Mathematics%20for%20Computer%20Science%20-%20Gary%20Haggard%2C%20John%20Schlipf%2C%20Sue%20Whitesides.pdf"
+  },
+  {
+    "name": "React Quickly",
+    "url": "Reference%20Books/365%20-%20React%20Quickly.pdf"
+  },
+  {
+    "name": "React JS by Example Building Modern Web Applications with React",
+    "url": "Reference%20Books/366%20-%20React%20JS%20by%20Example%20Building%20Modern%20Web%20Applications%20with%20React.pdf"
+  },
+  {
+    "name": "React JS Notes for Professionals",
+    "url": "Reference%20Books/367%20-%20React%20JS%20Notes%20for%20Professionals.pdf"
+  },
+  {
+    "name": "The Architecture of Computer Hardware System Software and Networking an Information Technology Approach - Irv Englander",
+    "url": "Reference%20Books/368%20-%20The%20Architecture%20of%20Computer%20Hardware%20System%20Software%20and%20Networking%20an%20Information%20Technology%20Approach%20-%20Irv%20Englander.pdf"
+  },
+  {
+    "name": "Spring Persistence with Hibernate",
+    "url": "Reference%20Books/369%20-%20Spring%20Persistence%20with%20Hibernate.pdf"
+  },
+  {
+    "name": "Learn Microservices with Spring Boot",
+    "url": "Reference%20Books/370%20-%20Learn%20Microservices%20with%20Spring%20Boot.pdf"
+  },
+  {
+    "name": "Artificial Intelligence by Example - Denis Rothman",
+    "url": "Reference%20Books/371%20-%20Artificial%20Intelligence%20by%20Example%20-%20Denis%20Rothman.pdf"
+  },
+  {
+    "name": "Blockchain Enabled Applications",
+    "url": "Reference%20Books/372%20-%20Blockchain%20Enabled%20Applications.pdf"
+  },
+  {
+    "name": "Blockchain Blueprint for a New Economy",
+    "url": "Reference%20Books/373%20-%20Blockchain%20Blueprint%20for%20a%20New%20Economy.pdf"
+  },
+  {
+    "name": "MongoDB Tutorial Simply Easy Learning - Zara",
+    "url": "Reference%20Books/374%20-%20MongoDB%20Tutorial%20Simply%20Easy%20Learning%20-%20Zara.pdf"
+  },
+  {
+    "name": "50 Tips and Tricks for MongoDB Developers - Kristina Chodorow",
+    "url": "Reference%20Books/375%20-%2050%20Tips%20and%20Tricks%20for%20MongoDB%20Developers%20-%20Kristina%20Chodorow.pdf"
+  },
+  {
+    "name": "MongoDB in Action",
+    "url": "Reference%20Books/376%20-%20MongoDB%20in%20Action.pdf"
+  },
+  {
+    "name": "Scala for Java Developers",
+    "url": "Reference%20Books/377%20-%20Scala%20for%20Java%20Developers.pdf"
+  },
+  {
+    "name": "Scala Cookbook - Alvin Alexander",
+    "url": "Reference%20Books/378%20-%20Scala%20Cookbook%20-%20Alvin%20Alexander.pdf"
+  },
+  {
+    "name": "Scala in Action - Nilanjan Raychaudhuri",
+    "url": "Reference%20Books/379%20-%20Scala%20in%20Action%20-%20Nilanjan%20Raychaudhuri.pdf"
+  },
+  {
+    "name": "Kubernetes in Action",
+    "url": "Reference%20Books/380%20-%20Kubernetes%20in%20Action.pdf"
+  },
+  {
+    "name": "Agile Web Development with Rails",
+    "url": "Reference%20Books/381%20-%20Agile%20Web%20Development%20with%20Rails.pdf"
+  },
+  {
+    "name": "Beginning Swift - Kare Morstol and Rob Kerr",
+    "url": "Reference%20Books/382%20-%20Beginning%20Swift%20-%20Kare%20Morstol%20and%20Rob%20Kerr.pdf"
+  },
+  {
+    "name": "Best of Ruby Quiz",
+    "url": "Reference%20Books/383%20-%20Best%20of%20Ruby%20Quiz.pdf"
+  },
+  {
+    "name": "Design Patterns in Ruby",
+    "url": "Reference%20Books/384%20-%20Design%20Patterns%20in%20Ruby.pdf"
+  },
+  {
+    "name": "Enterprise Integration with Ruby a Pragmatic Guide - The Pragmatic Bookshelf (19105)",
+    "url": "Reference%20Books/385%20-%20Enterprise%20Integration%20with%20Ruby%20a%20Pragmatic%20Guide%20-%20The%20Pragmatic%20Bookshelf%20%2819105%29.pdf"
+  },
+  {
+    "name": "Everyday Scripting with Ruby",
+    "url": "Reference%20Books/386%20-%20Everyday%20Scripting%20with%20Ruby.pdf"
+  },
+  {
+    "name": "From Java to Ruby",
+    "url": "Reference%20Books/387%20-%20From%20Java%20to%20Ruby.pdf"
+  },
+  {
+    "name": "Learn to Program",
+    "url": "Reference%20Books/388%20-%20Learn%20to%20Program.pdf"
+  },
+  {
+    "name": "Mastering Swift 4",
+    "url": "Reference%20Books/389%20-%20Mastering%20Swift%204.pdf"
+  },
+  {
+    "name": "Practical Ruby Projects Ideas for the Eclectic Programmer",
+    "url": "Reference%20Books/390%20-%20Practical%20Ruby%20Projects%20Ideas%20for%20the%20Eclectic%20Programmer.pdf"
+  },
+  {
+    "name": "Pro Active Record Databases with Ruby and Rails",
+    "url": "Reference%20Books/391%20-%20Pro%20Active%20Record%20Databases%20with%20Ruby%20and%20Rails.pdf"
+  },
+  {
+    "name": "Programming Ruby the Pragmatic Programmers Guide - Dave Thomas",
+    "url": "Reference%20Books/392%20-%20Programming%20Ruby%20the%20Pragmatic%20Programmers%20Guide%20-%20Dave%20Thomas.pdf"
+  },
+  {
+    "name": "Rails Recipes - The Pragmatic Bookshelf (23224)",
+    "url": "Reference%20Books/393%20-%20Rails%20Recipes%20-%20The%20Pragmatic%20Bookshelf%20%2823224%29.pdf"
+  },
+  {
+    "name": "Ruby for Rails",
+    "url": "Reference%20Books/394%20-%20Ruby%20for%20Rails.pdf"
+  },
+  {
+    "name": "Practical Ruby for System Administration",
+    "url": "Reference%20Books/395%20-%20Practical%20Ruby%20for%20System%20Administration.pdf"
+  },
+  {
+    "name": "Ruby Pocket Reference",
+    "url": "Reference%20Books/396%20-%20Ruby%20Pocket%20Reference.pdf"
+  },
+  {
+    "name": "THE RAILS WAY - Sudhir",
+    "url": "Reference%20Books/397%20-%20THE%20RAILS%20WAY%20-%20Sudhir.pdf"
+  },
+  {
+    "name": "Containerized Docker Application Lifecycle with Microsoft Platform and Tools",
+    "url": "Reference%20Books/398%20-%20Containerized%20Docker%20Application%20Lifecycle%20with%20Microsoft%20Platform%20and%20Tools.pdf"
+  },
+  {
+    "name": "Deploying with Jruby 9K - Joe Kutner",
+    "url": "Reference%20Books/399%20-%20Deploying%20with%20Jruby%209K%20-%20Joe%20Kutner.pdf"
+  },
+  {
+    "name": "Docker Up and Running - Karl Matthias and Sean P. Kane",
+    "url": "Reference%20Books/400%20-%20Docker%20Up%20and%20Running%20-%20Karl%20Matthias%20and%20Sean%20P.%20Kane.pdf"
+  },
+  {
+    "name": "Docker Containers Build and Deploy with Kubernetes Flannel Cockpit and Atomic",
+    "url": "Reference%20Books/401%20-%20Docker%20Containers%20Build%20and%20Deploy%20with%20Kubernetes%20Flannel%20Cockpit%20and%20Atomic.pdf"
+  },
+  {
+    "name": "Docker Cookbook - Sébastien Goasguen",
+    "url": "Reference%20Books/402%20-%20Docker%20Cookbook%20-%20Se%CC%81bastien%20Goasguen.pdf"
+  },
+  {
+    "name": "Docker for Developers - Chris Tankersley",
+    "url": "Reference%20Books/403%20-%20Docker%20for%20Developers%20-%20Chris%20Tankersley.pdf"
+  },
+  {
+    "name": "Docker for Sysadmins Linux Windowsvmware - Nigel Poulton",
+    "url": "Reference%20Books/404%20-%20Docker%20for%20Sysadmins%20Linux%20Windowsvmware%20-%20Nigel%20Poulton.pdf"
+  },
+  {
+    "name": "Docker in Action - Jeff Nickoloff",
+    "url": "Reference%20Books/405%20-%20Docker%20in%20Action%20-%20Jeff%20Nickoloff.pdf"
+  },
+  {
+    "name": "Docker in Practice - Ian Miell, Aidan Hobson Sayers",
+    "url": "Reference%20Books/406%20-%20Docker%20in%20Practice%20-%20Ian%20Miell%2C%20Aidan%20Hobson%20Sayers.pdf"
+  },
+  {
+    "name": "Docker in Production Lessons from the Trenches",
+    "url": "Reference%20Books/407%20-%20Docker%20in%20Production%20Lessons%20from%20the%20Trenches.pdf"
+  },
+  {
+    "name": "Docker Management Design Patterns Swarm Mode on Amazon Web Services",
+    "url": "Reference%20Books/408%20-%20Docker%20Management%20Design%20Patterns%20Swarm%20Mode%20on%20Amazon%20Web%20Services.pdf"
+  },
+  {
+    "name": "Docker Tutorial - Anthony Baire",
+    "url": "Reference%20Books/409%20-%20Docker%20Tutorial%20-%20Anthony%20Baire.pdf"
+  },
+  {
+    "name": "Docker Tutorial Tutorialspoint - Alan Rodrigues",
+    "url": "Reference%20Books/410%20-%20Docker%20Tutorial%20Tutorialspoint%20-%20Alan%20Rodrigues.pdf"
+  },
+  {
+    "name": "Essential Docker for ASPNET Core MVC",
+    "url": "Reference%20Books/411%20-%20Essential%20Docker%20for%20ASPNET%20Core%20MVC.pdf"
+  },
+  {
+    "name": "Kubernetes Patterns Patterns Principles and Practices for Designing Cloud Native Applications - Bilgin Ibryam and Roland Huß",
+    "url": "Reference%20Books/412%20-%20Kubernetes%20Patterns%20Patterns%20Principles%20and%20Practices%20for%20Designing%20Cloud%20Native%20Applications%20-%20Bilgin%20Ibryam%20and%20Roland%20Hu%C3%9F.pdf"
+  },
+  {
+    "name": "Learning Windows Server Containers - Machiraju, Srikanth",
+    "url": "Reference%20Books/413%20-%20Learning%20Windows%20Server%20Containers%20-%20Machiraju%2C%20Srikanth.pdf"
+  },
+  {
+    "name": "Orchestrating Docker Manage and Deploy Docker Services to Containerize Applications Efficiently",
+    "url": "Reference%20Books/414%20-%20Orchestrating%20Docker%20Manage%20and%20Deploy%20Docker%20Services%20to%20Containerize%20Applications%20Efficiently.pdf"
+  },
+  {
+    "name": "Pro Docker",
+    "url": "Reference%20Books/415%20-%20Pro%20Docker.pdf"
+  },
+  {
+    "name": "The Docker Book - James Turnbull",
+    "url": "Reference%20Books/416%20-%20The%20Docker%20Book%20-%20James%20Turnbull.pdf"
+  },
+  {
+    "name": "Using Docker (7)",
+    "url": "Reference%20Books/417%20-%20Using%20Docker%20%287%29.pdf"
+  },
+  {
+    "name": "Using Docker",
+    "url": "Reference%20Books/417%20-%20Using%20Docker.pdf"
+  },
+  {
+    "name": "Effective Python Penetration Testing",
+    "url": "Reference%20Books/418%20-%20Effective%20Python%20Penetration%20Testing.pdf"
+  },
+  {
+    "name": "Macos Programming for Absolute Beginners",
+    "url": "Reference%20Books/419%20-%20Macos%20Programming%20for%20Absolute%20Beginners.pdf"
+  },
+  {
+    "name": "Practical Common Lisp",
+    "url": "Reference%20Books/420%20-%20Practical%20Common%20Lisp.pdf"
+  },
+  {
+    "name": "Practical Linux Infrastructure",
+    "url": "Reference%20Books/421%20-%20Practical%20Linux%20Infrastructure.pdf"
+  },
+  {
+    "name": "Sams Teach Yourself TCPIP in 24 Hours",
+    "url": "Reference%20Books/422%20-%20Sams%20Teach%20Yourself%20TCPIP%20in%2024%20Hours.pdf"
+  },
+  {
+    "name": "Shell Programming in Unix Linux and OS X",
+    "url": "Reference%20Books/423%20-%20Shell%20Programming%20in%20Unix%20Linux%20and%20OS%20X.pdf"
+  },
+  {
+    "name": "Sams Teach Yourself Unix in 24 Hours - Dave Taylor",
+    "url": "Reference%20Books/424%20-%20Sams%20Teach%20Yourself%20Unix%20in%2024%20Hours%20-%20Dave%20Taylor.pdf"
+  },
+  {
+    "name": "ANSI Common Lisp",
+    "url": "Reference%20Books/425%20-%20ANSI%20Common%20Lisp.pdf"
+  },
+  {
+    "name": "First Course in Algebra",
+    "url": "Reference%20Books/426%20-%20First%20Course%20in%20Algebra.pdf"
+  },
+  {
+    "name": "How to Learn Math for Data Science the Selfstarter Way - Sales-PC",
+    "url": "Reference%20Books/427%20-%20How%20to%20Learn%20Math%20for%20Data%20Science%20the%20Selfstarter%20Way%20-%20Sales-PC.pdf"
+  },
+  {
+    "name": "Linear Algebra in R",
+    "url": "Reference%20Books/428%20-%20Linear%20Algebra%20in%20R.pdf"
+  },
+  {
+    "name": "The Matrix Cookbook",
+    "url": "Reference%20Books/429%20-%20The%20Matrix%20Cookbook.pdf"
+  },
+  {
+    "name": "Multivariable Calculus with Applications to the Life Sciences",
+    "url": "Reference%20Books/430%20-%20Multivariable%20Calculus%20with%20Applications%20to%20the%20Life%20Sciences.pdf"
+  },
+  {
+    "name": "Service Virtualization Implementation Practices and Trends for Ondemand Test Environments - Bas Dijkstra",
+    "url": "Reference%20Books/431%20-%20Service%20Virtualization%20Implementation%20Practices%20and%20Trends%20for%20Ondemand%20Test%20Environments%20-%20Bas%20Dijkstra.pdf"
+  },
+  {
+    "name": "Calculus Made Easy",
+    "url": "Reference%20Books/432%20-%20Calculus%20Made%20Easy.pdf"
+  },
+  {
+    "name": "A Gentle Guide to Constraint Logic Programming",
+    "url": "Reference%20Books/433%20-%20A%20Gentle%20Guide%20to%20Constraint%20Logic%20Programming.pdf"
+  },
+  {
+    "name": "A Course in Machine Learning - Hal Daumé III",
+    "url": "Reference%20Books/434%20-%20A%20Course%20in%20Machine%20Learning%20-%20Hal%20Daume%CC%81%20III.pdf"
+  },
+  {
+    "name": "Enabling Exploratory Data Science with Spark and R",
+    "url": "Reference%20Books/435%20-%20Enabling%20Exploratory%20Data%20Science%20with%20Spark%20and%20R.pdf"
+  },
+  {
+    "name": "How Apache Spark Fits into the Big Data Landscape",
+    "url": "Reference%20Books/436%20-%20How%20Apache%20Spark%20Fits%20into%20the%20Big%20Data%20Landscape.pdf"
+  },
+  {
+    "name": "Recent Advances in Face Recognition - Jovana",
+    "url": "Reference%20Books/437%20-%20Recent%20Advances%20in%20Face%20Recognition%20-%20Jovana.pdf"
+  },
+  {
+    "name": "An Architecture for Fast and General Data Processing on Large Clusters",
+    "url": "Reference%20Books/438%20-%20An%20Architecture%20for%20Fast%20and%20General%20Data%20Processing%20on%20Large%20Clusters.pdf"
+  },
+  {
+    "name": "Fast Data Processing with Spark",
+    "url": "Reference%20Books/439%20-%20Fast%20Data%20Processing%20with%20Spark.pdf"
+  },
+  {
+    "name": "Logic for Computer Science Foundations of Automatic Theorem Proving",
+    "url": "Reference%20Books/440%20-%20Logic%20for%20Computer%20Science%20Foundations%20of%20Automatic%20Theorem%20Proving.pdf"
+  },
+  {
+    "name": "Intro to Apache Spark",
+    "url": "Reference%20Books/441%20-%20Intro%20to%20Apache%20Spark.pdf"
+  },
+  {
+    "name": "OCP Java SE 6 Programmer Practice Exams - Bert Bates",
+    "url": "Reference%20Books/442%20-%20OCP%20Java%20SE%206%20Programmer%20Practice%20Exams%20-%20Bert%20Bates.pdf"
+  },
+  {
+    "name": "SCJP Sun Certified Programmer for Java 6 Study Guide - Sierra, Kathy., Bates, Bert",
+    "url": "Reference%20Books/443%20-%20SCJP%20Sun%20Certified%20Programmer%20for%20Java%206%20Study%20Guide%20-%20Sierra%2C%20Kathy.%2C%20Bates%2C%20Bert.pdf"
+  },
+  {
+    "name": "Machine Learning Neural and Statistical Classification",
+    "url": "Reference%20Books/444%20-%20Machine%20Learning%20Neural%20and%20Statistical%20Classification.pdf"
+  },
+  {
+    "name": "The Node Beginner Book a Comprehensive Node.js Tutorial",
+    "url": "Reference%20Books/445%20-%20The%20Node%20Beginner%20Book%20a%20Comprehensive%20Node.js%20Tutorial.pdf"
+  },
+  {
+    "name": "Mastering Apache Spark - Jacek Laskowski",
+    "url": "Reference%20Books/446%20-%20Mastering%20Apache%20Spark%20-%20Jacek%20Laskowski.pdf"
+  },
+  {
+    "name": "Getting Started with GEO Couchdb and Node.js - Mick Thompson",
+    "url": "Reference%20Books/447%20-%20Getting%20Started%20with%20GEO%20Couchdb%20and%20Node.js%20-%20Mick%20Thompson.pdf"
+  },
+  {
+    "name": "Mastering Apache Spark Gain Expertise in Processing and Storing Data by Using Advanced Techniques with Apache Spark - Mike Frampton",
+    "url": "Reference%20Books/448%20-%20Mastering%20Apache%20Spark%20Gain%20Expertise%20in%20Processing%20and%20Storing%20Data%20by%20Using%20Advanced%20Techniques%20with%20Apache%20Spark%20-%20Mike%20Frampton.pdf"
+  },
+  {
+    "name": "The Quest for Artificial Intelligence a History of Ideas and Achievements - Nils Nilsson",
+    "url": "Reference%20Books/449%20-%20The%20Quest%20for%20Artificial%20Intelligence%20a%20History%20of%20Ideas%20and%20Achievements%20-%20Nils%20Nilsson.pdf"
+  },
+  {
+    "name": "Simply Logical Intelligent Reasoning by Example - Example Peter Flach University Of Bristol",
+    "url": "Reference%20Books/450%20-%20Simply%20Logical%20Intelligent%20Reasoning%20by%20Example%20-%20Example%20Peter%20Flach%20University%20Of%20Bristol.pdf"
+  },
+  {
+    "name": "Restful Web API Design with Node.js",
+    "url": "Reference%20Books/451%20-%20Restful%20Web%20API%20Design%20with%20Node.js.pdf"
+  },
+  {
+    "name": "Virtual Reality for Human Computer Interaction - Marc Erich Latoschik",
+    "url": "Reference%20Books/452%20-%20Virtual%20Reality%20for%20Human%20Computer%20Interaction%20-%20Marc%20Erich%20Latoschik.pdf"
+  },
+  {
+    "name": "Advanced Analytics with Spark - Sandy Ryza, Uri Laserson, Sean Owen, and Josh Wills",
+    "url": "Reference%20Books/453%20-%20Advanced%20Analytics%20with%20Spark%20-%20Sandy%20Ryza%2C%20Uri%20Laserson%2C%20Sean%20Owen%2C%20and%20Josh%20Wills.pdf"
+  },
+  {
+    "name": "Big Data Analytics Using Splunk - Peter Zadrozny",
+    "url": "Reference%20Books/454%20-%20Big%20Data%20Analytics%20Using%20Splunk%20-%20Peter%20Zadrozny.pdf"
+  },
+  {
+    "name": "Java Concurrency in Practice",
+    "url": "Reference%20Books/455%20-%20Java%20Concurrency%20in%20Practice.pdf"
+  },
+  {
+    "name": "Build a REST API with Spring 4",
+    "url": "Reference%20Books/456%20-%20Build%20a%20REST%20API%20with%20Spring%204.pdf"
+  },
+  {
+    "name": "Coding Interview in Java",
+    "url": "Reference%20Books/457%20-%20Coding%20Interview%20in%20Java.pdf"
+  },
+  {
+    "name": "The Elements of Statistical Learning Data Mining Inference and Prediction",
+    "url": "Reference%20Books/458%20-%20The%20Elements%20of%20Statistical%20Learning%20Data%20Mining%20Inference%20and%20Prediction.pdf"
+  },
+  {
+    "name": "Statistics 401 an Introduction to Statistics for Engineers and Scientists",
+    "url": "Reference%20Books/459%20-%20Statistics%20401%20an%20Introduction%20to%20Statistics%20for%20Engineers%20and%20Scientists.pdf"
+  },
+  {
+    "name": "Introduction to the Practice of Statistics - David S. Moore",
+    "url": "Reference%20Books/460%20-%20Introduction%20to%20the%20Practice%20of%20Statistics%20-%20David%20S.%20Moore.pdf"
+  },
+  {
+    "name": "Streetfighting Mathematics",
+    "url": "Reference%20Books/461%20-%20Streetfighting%20Mathematics.pdf"
+  },
+  {
+    "name": "Think Stats Exploratory Data Analysis in Python",
+    "url": "Reference%20Books/462%20-%20Think%20Stats%20Exploratory%20Data%20Analysis%20in%20Python.pdf"
+  },
+  {
+    "name": "Open Data Structures - Pat Morin",
+    "url": "Reference%20Books/463%20-%20Open%20Data%20Structures%20-%20Pat%20Morin.pdf"
+  },
+  {
+    "name": "Information Science and Statistics",
+    "url": "Reference%20Books/464%20-%20Information%20Science%20and%20Statistics.pdf"
+  },
+  {
+    "name": "C for Artists the Art Philosophy and Science of Object-Oriented Programming - Rick Miller",
+    "url": "Reference%20Books/465%20-%20C%20for%20Artists%20the%20Art%20Philosophy%20and%20Science%20of%20Object-Oriented%20Programming%20-%20Rick%20Miller.pdf"
+  },
+  {
+    "name": "Concurrency in .NET",
+    "url": "Reference%20Books/466%20-%20Concurrency%20in%20.NET.pdf"
+  },
+  {
+    "name": "Designing for Cisco Network Service Architectures ARCH Foundation Learning Guide",
+    "url": "Reference%20Books/467%20-%20Designing%20for%20Cisco%20Network%20Service%20Architectures%20ARCH%20Foundation%20Learning%20Guide.pdf"
+  },
+  {
+    "name": "Erlang and OTP in Action - Martin Logan, Eric Merritt, Richard Carlsson",
+    "url": "Reference%20Books/468%20-%20Erlang%20and%20OTP%20in%20Action%20-%20Martin%20Logan%2C%20Eric%20Merritt%2C%20Richard%20Carlsson.pdf"
+  },
+  {
+    "name": "Machine Learning Systems",
+    "url": "Reference%20Books/469%20-%20Machine%20Learning%20Systems.pdf"
+  },
+  {
+    "name": "Mastering Jenkins - Jonathan McAllister",
+    "url": "Reference%20Books/470%20-%20Mastering%20Jenkins%20-%20Jonathan%20McAllister.pdf"
+  },
+  {
+    "name": "AWS Certified Sysops Administrator Official Study Guide Associate Exam - Stephen Cole, Gareth Digby, Chris Fitch, Steve Friedberg, Shaun Qualheim, Jerry Rhoads, Michael Roth, Blaine Sundrud",
+    "url": "Reference%20Books/471%20-%20AWS%20Certified%20Sysops%20Administrator%20Official%20Study%20Guide%20Associate%20Exam%20-%20Stephen%20Cole%2C%20Gareth%20Digby%2C%20Chris%20Fitch%2C%20Steve%20Friedberg%2C%20Shaun%20Qualheim%2C%20Jerry%20Rhoads%2C%20Michael%20Roth%2C%20Blaine%20Sundrud.pdf"
+  },
+  {
+    "name": "Amazon Web Services in Action - Ben Whaley",
+    "url": "Reference%20Books/472%20-%20Amazon%20Web%20Services%20in%20Action%20-%20Ben%20Whaley.pdf"
+  },
+  {
+    "name": "Beginning Couchdb",
+    "url": "Reference%20Books/473%20-%20Beginning%20Couchdb.pdf"
+  },
+  {
+    "name": "Beginning SVG a Practical Introduction to SVG Using Realworld Examples",
+    "url": "Reference%20Books/474%20-%20Beginning%20SVG%20a%20Practical%20Introduction%20to%20SVG%20Using%20Realworld%20Examples.pdf"
+  },
+  {
+    "name": "Elixir in Action",
+    "url": "Reference%20Books/475%20-%20Elixir%20in%20Action.pdf"
+  },
+  {
+    "name": "Fonts Encodings",
+    "url": "Reference%20Books/476%20-%20Fonts%20Encodings.pdf"
+  },
+  {
+    "name": "Practical Web Development with Haskell",
+    "url": "Reference%20Books/477%20-%20Practical%20Web%20Development%20with%20Haskell.pdf"
+  },
+  {
+    "name": "Scaling Your Node.js Apps",
+    "url": "Reference%20Books/478%20-%20Scaling%20Your%20Node.js%20Apps.pdf"
+  },
+  {
+    "name": "Think Like a Data Scientist TACKLE THE DATA Science Process Stepbystep",
+    "url": "Reference%20Books/479%20-%20Think%20Like%20a%20Data%20Scientist%20TACKLE%20THE%20DATA%20Science%20Process%20Stepbystep.pdf"
+  },
+  {
+    "name": "UX for Developers",
+    "url": "Reference%20Books/480%20-%20UX%20for%20Developers.pdf"
+  },
+  {
+    "name": "Decoupled Drupal in Practice - Dries Buytaert",
+    "url": "Reference%20Books/481%20-%20Decoupled%20Drupal%20in%20Practice%20-%20Dries%20Buytaert.pdf"
+  },
+  {
+    "name": "Vuejs Up and Running - Callum Macrae",
+    "url": "Reference%20Books/482%20-%20Vuejs%20Up%20and%20Running%20-%20Callum%20Macrae.pdf"
+  },
+  {
+    "name": "Web Application Development with R Using Shiny",
+    "url": "Reference%20Books/483%20-%20Web%20Application%20Development%20with%20R%20Using%20Shiny.pdf"
+  },
+  {
+    "name": "Web Applications with Elm",
+    "url": "Reference%20Books/484%20-%20Web%20Applications%20with%20Elm.pdf"
+  },
+  {
+    "name": "Getting to Know Vuejs",
+    "url": "Reference%20Books/485%20-%20Getting%20to%20Know%20Vuejs.pdf"
+  },
+  {
+    "name": "Developing Games on the Raspberry Pi",
+    "url": "Reference%20Books/486%20-%20Developing%20Games%20on%20the%20Raspberry%20Pi.pdf"
+  },
+  {
+    "name": "Dynamic SQL",
+    "url": "Reference%20Books/487%20-%20Dynamic%20SQL.pdf"
+  },
+  {
+    "name": "Large Scale Data Analytics",
+    "url": "Reference%20Books/488%20-%20Large%20Scale%20Data%20Analytics.pdf"
+  },
+  {
+    "name": "Pcs Just the Steps for Dummies",
+    "url": "Reference%20Books/489%20-%20Pcs%20Just%20the%20Steps%20for%20Dummies.pdf"
+  },
+  {
+    "name": "Python for Data Mining Quick Syntax Reference",
+    "url": "Reference%20Books/490%20-%20Python%20for%20Data%20Mining%20Quick%20Syntax%20Reference.pdf"
+  },
+  {
+    "name": "Solving Cyber Risk Protecting Your Company and Society - Andrew Coburn",
+    "url": "Reference%20Books/491%20-%20Solving%20Cyber%20Risk%20Protecting%20Your%20Company%20and%20Society%20-%20Andrew%20Coburn.pdf"
+  },
+  {
+    "name": "Understanding Azure Data Factory",
+    "url": "Reference%20Books/492%20-%20Understanding%20Azure%20Data%20Factory.pdf"
+  },
+  {
+    "name": "Voice User Interface Design Moving from GUI to Mixed Modal Interaction",
+    "url": "Reference%20Books/493%20-%20Voice%20User%20Interface%20Design%20Moving%20from%20GUI%20to%20Mixed%20Modal%20Interaction.pdf"
+  },
+  {
+    "name": "Nagios System and Network Monitoring",
+    "url": "Reference%20Books/494%20-%20Nagios%20System%20and%20Network%20Monitoring.pdf"
+  },
+  {
+    "name": "Algorithm Flowchart Manual for Students",
+    "url": "Reference%20Books/495%20-%20Algorithm%20Flowchart%20Manual%20for%20Students.pdf"
+  },
+  {
+    "name": "Cisco ISP Essentials",
+    "url": "Reference%20Books/496%20-%20Cisco%20ISP%20Essentials.pdf"
+  },
+  {
+    "name": "Learn Active Directory Management in a Month of Lunches",
+    "url": "Reference%20Books/497%20-%20Learn%20Active%20Directory%20Management%20in%20a%20Month%20of%20Lunches.pdf"
+  },
+  {
+    "name": "Managing Microsoft Hybrid Clouds",
+    "url": "Reference%20Books/498%20-%20Managing%20Microsoft%20Hybrid%20Clouds.pdf"
+  },
+  {
+    "name": "Tableau Data Visualization Cookbook",
+    "url": "Reference%20Books/499%20-%20Tableau%20Data%20Visualization%20Cookbook.pdf"
+  },
+  {
+    "name": "The Site Reliability Workbook - Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara and Stephen Thorne",
+    "url": "Reference%20Books/500%20-%20The%20Site%20Reliability%20Workbook%20-%20Betsy%20Beyer%2C%20Niall%20Richard%20Murphy%2C%20David%20K.%20Rensin%2C%20Kent%20Kawahara%20and%20Stephen%20Thorne.pdf"
+  },
+  {
+    "name": "Networking Allinone for Dummies - Doug Lowe",
+    "url": "Reference%20Books/501%20-%20Networking%20Allinone%20for%20Dummies%20-%20Doug%20Lowe.pdf"
+  },
+  {
+    "name": "German-English Bilingual Visual Dictionary - Angeles Gavira",
+    "url": "Reference%20Books/502%20-%20German-English%20Bilingual%20Visual%20Dictionary%20-%20Angeles%20Gavira.pdf"
+  },
+  {
+    "name": "Digital Integrated Circuits: A Design Perspective - Jan M. Rabaey, Anantha Chandrakasan, and Borivoje Nikolic",
+    "url": "Reference%20Books/503%20-%20Digital%20Integrated%20Circuits%3A%20A%20Design%20Perspective%20-%20Jan%20M.%20Rabaey%2C%20Anantha%20Chandrakasan%2C%20and%20Borivoje%20Nikolic.pdf"
+  },
+  {
+    "name": "A1 SD1 Wortliste 02",
+    "url": "Reference%20Books/504%20-%20A1%20SD1%20Wortliste%2002.pdf"
+  },
+  {
+    "name": "A-Common-Sense-Guide-to-Data-Structures-and-Algorithms-Level-Up-Your-Core-Programming-Skills-2nbsped-1680507222-9781680507225 - Jay Wengrow",
+    "url": "Reference%20Books/505%20-%20A-Common-Sense-Guide-to-Data-Structures-and-Algorithms-Level-Up-Your-Core-Programming-Skills-2nbsped-1680507222-9781680507225%20-%20Jay%20Wengrow.pdf"
+  },
+  {
+    "name": "Alan V. Oppenheim, Alan S. Willsky, with S. Hamid-Signals and Systems-Prentice Hall (1996)",
+    "url": "Reference%20Books/506%20-%20Alan%20V.%20Oppenheim%2C%20Alan%20S.%20Willsky%2C%20with%20S.%20Hamid-Signals%20and%20Systems-Prentice%20Hall%20%281996%29.pdf"
+  },
+  {
+    "name": "Algorithm Design Jon Kleinberg, Eva Tardos",
+    "url": "Reference%20Books/507%20-%20Algorithm%20Design%20Jon%20Kleinberg%2C%20Eva%20Tardos.pdf"
+  },
+  {
+    "name": "Algorithms 4th Sedgewick Wayne",
+    "url": "Reference%20Books/508%20-%20Algorithms%204th%20Sedgewick%20Wayne.pdf"
+  },
+  {
+    "name": "Algorithms for Dummies - John Paul Mueller",
+    "url": "Reference%20Books/509%20-%20Algorithms%20for%20Dummies%20-%20John%20Paul%20Mueller.pdf"
+  },
+  {
+    "name": "Algorithms Illuminated Part 1 the Basics Tim Roughgarden",
+    "url": "Reference%20Books/510%20-%20Algorithms%20Illuminated%20Part%201%20the%20Basics%20Tim%20Roughgarden.pdf"
+  },
+  {
+    "name": "Algorithms Unlocked Thomas H. Cormen - Thomas H. Cormen",
+    "url": "Reference%20Books/511%20-%20Algorithms%20Unlocked%20Thomas%20H.%20Cormen%20-%20Thomas%20H.%20Cormen.pdf"
+  },
+  {
+    "name": "An Introduction to Formal Languages and Automata, 5th Edition - Linz, Peter",
+    "url": "Reference%20Books/512%20-%20An%20Introduction%20to%20Formal%20Languages%20and%20Automata%2C%205th%20Edition%20-%20Linz%2C%20Peter.pdf"
+  },
+  {
+    "name": "An-Introduction-to-Statistical-Learning-with-Applications-in-Python",
+    "url": "Reference%20Books/513%20-%20An-Introduction-to-Statistical-Learning-with-Applications-in-Python.pdf"
+  },
+  {
+    "name": "An Introduction to Formal Languages and Automata 6th Edition - Linz, Peter",
+    "url": "Reference%20Books/514%20-%20An%20Introduction%20to%20Formal%20Languages%20and%20Automata%206th%20Edition%20-%20Linz%2C%20Peter.pdf"
+  },
+  {
+    "name": "Artificial Intelligence a Modern Approach (4th Edition) (pearson Series in Artifical Intelligence) - Stuart Russell, Peter Norvig",
+    "url": "Reference%20Books/515%20-%20Artificial%20Intelligence%20a%20Modern%20Approach%20%284th%20Edition%29%20%28pearson%20Series%20in%20Artifical%20Intelligence%29%20-%20Stuart%20Russell%2C%20Peter%20Norvig.pdf"
+  },
+  {
+    "name": "Artificial Intelligence a Modern Approach, 3rd Edition - Stuart J. Russell, Peter Norvig",
+    "url": "Reference%20Books/516%20-%20Artificial%20Intelligence%20a%20Modern%20Approach%2C%203rd%20Edition%20-%20Stuart%20J.%20Russell%2C%20Peter%20Norvig.pdf"
+  },
+  {
+    "name": "Artificial Intelligence for Dummies - John Paul Mueller",
+    "url": "Reference%20Books/517%20-%20Artificial%20Intelligence%20for%20Dummies%20-%20John%20Paul%20Mueller.pdf"
+  },
+  {
+    "name": "Artificial Intelligence with an Introduction to Machine Learning - Richard E. Neapolitan, Xia Jiang",
+    "url": "Reference%20Books/518%20-%20Artificial%20Intelligence%20with%20an%20Introduction%20to%20Machine%20Learning%20-%20Richard%20E.%20Neapolitan%2C%20Xia%20Jiang.pdf"
+  },
+  {
+    "name": "Automate the Boring Stuff with Python 2nd Edition-Al Sweigart-No Starch-9781593279929",
+    "url": "Reference%20Books/519%20-%20Automate%20the%20Boring%20Stuff%20with%20Python%202nd%20Edition-Al%20Sweigart-No%20Starch-9781593279929.pdf"
+  },
+  {
+    "name": "Basics of Linear Algebra for Machine Learning - Discover the Mathematical Language of Data in Python - Jason Brownlee",
+    "url": "Reference%20Books/520%20-%20Basics%20of%20Linear%20Algebra%20for%20Machine%20Learning%20-%20Discover%20the%20Mathematical%20Language%20of%20Data%20in%20Python%20-%20Jason%20Brownlee.pdf"
+  },
+  {
+    "name": "Better Deep Learning Train Faster, Reduce Overfitting, and Make Better Predictions - Jason Brownlee",
+    "url": "Reference%20Books/521%20-%20Better%20Deep%20Learning%20Train%20Faster%2C%20Reduce%20Overfitting%2C%20and%20Make%20Better%20Predictions%20-%20Jason%20Brownlee.pdf"
+  },
+  {
+    "name": "Bigbooksmallpythonprojects - Al Sweigart",
+    "url": "Reference%20Books/522%20-%20Bigbooksmallpythonprojects%20-%20Al%20Sweigart.pdf"
+  },
+  {
+    "name": "Bytebytego Big Archive System Design 2023",
+    "url": "Reference%20Books/523%20-%20Bytebytego%20Big%20Archive%20System%20Design%202023.pdf"
+  },
+  {
+    "name": "CCNA-Routing-and-Switching-ICND1-100-105 - Wendell Odom",
+    "url": "Reference%20Books/524%20-%20CCNA-Routing-and-Switching-ICND1-100-105%20-%20Wendell%20Odom.pdf"
+  },
+  {
+    "name": "CCNA-Routing-and-Switching-ICND2-200-105 - Wendell Odom",
+    "url": "Reference%20Books/525%20-%20CCNA-Routing-and-Switching-ICND2-200-105%20-%20Wendell%20Odom.pdf"
+  },
+  {
+    "name": "Cisco CCNA Quick Reference Sheets - Arsenal999",
+    "url": "Reference%20Books/526%20-%20Cisco%20CCNA%20Quick%20Reference%20Sheets%20-%20Arsenal999.pdf"
+  },
+  {
+    "name": "Cisco-CCNA-200-301-Volume1 - Wendell Odom",
+    "url": "Reference%20Books/527%20-%20Cisco-CCNA-200-301-Volume1%20-%20Wendell%20Odom.pdf"
+  },
+  {
+    "name": "Cisco-CCNA-200-301-Volume2",
+    "url": "Reference%20Books/528%20-%20Cisco-CCNA-200-301-Volume2.pdf"
+  },
+  {
+    "name": "Introduction to Algorithms: Solutions - Michelle Bodnar and Andrew Lohr",
+    "url": "Reference%20Books/529%20-%20Introduction%20to%20Algorithms%3A%20Solutions%20-%20Michelle%20Bodnar%20and%20Andrew%20Lohr.pdf"
+  },
+  {
+    "name": "CMOS-VLSI-Design-a-Circuits-and-Systems-Perspective-4th-Edition",
+    "url": "Reference%20Books/530%20-%20CMOS-VLSI-Design-a-Circuits-and-Systems-Perspective-4th-Edition.pdf"
+  },
+  {
+    "name": "Communication Networks Fundamental Concepts and Key Architectures - Alberto Leon Garcia and Indra Widjaja",
+    "url": "Reference%20Books/531%20-%20Communication%20Networks%20Fundamental%20Concepts%20and%20Key%20Architectures%20-%20Alberto%20Leon%20Garcia%20and%20Indra%20Widjaja.pdf"
+  },
+  {
+    "name": "Comptia-Network-Study-Exam-N10-009-6th - Todd Lammle and Jon Buhagiar",
+    "url": "Reference%20Books/532%20-%20Comptia-Network-Study-Exam-N10-009-6th%20-%20Todd%20Lammle%20and%20Jon%20Buhagiar.pdf"
+  },
+  {
+    "name": "Computer Architecture a Quantitative Approach (5th Edition) - Hennessy, John L., Patterson, David A",
+    "url": "Reference%20Books/533%20-%20Computer%20Architecture%20a%20Quantitative%20Approach%20%285th%20Edition%29%20-%20Hennessy%2C%20John%20L.%2C%20Patterson%2C%20David%20A.pdf"
+  },
+  {
+    "name": "Computer Architecture, Sixth Edition a Quantitative Approach - John L. Hennessy",
+    "url": "Reference%20Books/534%20-%20Computer%20Architecture%2C%20Sixth%20Edition%20a%20Quantitative%20Approach%20-%20John%20L.%20Hennessy.pdf"
+  },
+  {
+    "name": "Computer Networking-a Top Down Approach-7th",
+    "url": "Reference%20Books/535%20-%20Computer%20Networking-a%20Top%20Down%20Approach-7th.pdf"
+  },
+  {
+    "name": "Computer Organization and Design the Hardware Software Interface [RISC-V Edition] - David A. Patterson",
+    "url": "Reference%20Books/536%20-%20Computer%20Organization%20and%20Design%20the%20Hardware%20Software%20Interface%20%5BRISC-V%20Edition%5D%20-%20David%20A.%20Patterson.pdf"
+  },
+  {
+    "name": "Computer-Architecture-Fundamentals-and-Principles-of-Computer-Design - Joseph D. Dumas II",
+    "url": "Reference%20Books/537%20-%20Computer-Architecture-Fundamentals-and-Principles-of-Computer-Design%20-%20Joseph%20D.%20Dumas%20II.pdf"
+  },
+  {
+    "name": "Computer Organization and Design Patterson - Patterson, David A., Hennessy, John L",
+    "url": "Reference%20Books/538%20-%20Computer%20Organization%20and%20Design%20Patterson%20-%20Patterson%2C%20David%20A.%2C%20Hennessy%2C%20John%20L.pdf"
+  },
+  {
+    "name": "Concepts-in-Programming-Languages - John C. Mitchell, Krzysztof Apt",
+    "url": "Reference%20Books/540%20-%20Concepts-in-Programming-Languages%20-%20John%20C.%20Mitchell%2C%20Krzysztof%20Apt.pdf"
+  },
+  {
+    "name": "Consepts of Programming Language 2012",
+    "url": "Reference%20Books/541%20-%20Consepts%20of%20Programming%20Language%202012.pdf"
+  },
+  {
+    "name": "Cs229 Machine Learning Andrew Ng",
+    "url": "Reference%20Books/542%20-%20Cs229%20Machine%20Learning%20Andrew%20Ng.pdf"
+  },
+  {
+    "name": "CSE102-Cheatsheethtml",
+    "url": "Reference%20Books/543%20-%20CSE102-Cheatsheethtml.pdf"
+  },
+  {
+    "name": "An Introduction to Relational Database Theory - Hugh Darwen",
+    "url": "Reference%20Books/544%20-%20An%20Introduction%20to%20Relational%20Database%20Theory%20-%20Hugh%20Darwen.pdf"
+  },
+  {
+    "name": "Data Communications and Networking - Behrouz A. Forouzan",
+    "url": "Reference%20Books/545%20-%20Data%20Communications%20and%20Networking%20-%20Behrouz%20A.%20Forouzan.pdf"
+  },
+  {
+    "name": "Data Preparation for Machine Learning Data Cleaning, Feature Selection, and Data Transforms in Python - Jason Brownlee",
+    "url": "Reference%20Books/546%20-%20Data%20Preparation%20for%20Machine%20Learning%20Data%20Cleaning%2C%20Feature%20Selection%2C%20and%20Data%20Transforms%20in%20Python%20-%20Jason%20Brownlee.pdf"
+  },
+  {
+    "name": "Data Science with Julia - McNicholas, Paul D., Tait, Peter",
+    "url": "Reference%20Books/547%20-%20Data%20Science%20with%20Julia%20-%20McNicholas%2C%20Paul%20D.%2C%20Tait%2C%20Peter.pdf"
+  },
+  {
+    "name": "Data Structure and Algorithmic Thinking with Python Data Structure and Algorithmic Puzzles - Narasimha Karumanchi",
+    "url": "Reference%20Books/548%20-%20Data%20Structure%20and%20Algorithmic%20Thinking%20with%20Python%20Data%20Structure%20and%20Algorithmic%20Puzzles%20-%20Narasimha%20Karumanchi.pdf"
+  },
+  {
+    "name": "Data Structures and Algorithms in Java Michael T. Goodrich Fourth Edition - Nap",
+    "url": "Reference%20Books/549%20-%20Data%20Structures%20and%20Algorithms%20in%20Java%20Michael%20T.%20Goodrich%20Fourth%20Edition%20-%20Nap.pdf"
+  },
+  {
+    "name": "Data Structures and Algorithms in Java Robert Lafore Second Edition - Lafore, Robert",
+    "url": "Reference%20Books/550%20-%20Data%20Structures%20and%20Algorithms%20in%20Java%20Robert%20Lafore%20Second%20Edition%20-%20Lafore%2C%20Robert.pdf"
+  },
+  {
+    "name": "Data Structures and Algorithms Made Easy Narasimha Karumanchi 5th-Edition - Narasimha Karumanchi",
+    "url": "Reference%20Books/551%20-%20Data%20Structures%20and%20Algorithms%20Made%20Easy%20Narasimha%20Karumanchi%205th-Edition%20-%20Narasimha%20Karumanchi.pdf"
+  },
+  {
+    "name": "Data-Mining-Book7-8",
+    "url": "Reference%20Books/552%20-%20Data-Mining-Book7-8.pdf"
+  },
+  {
+    "name": "Data-Structures-and-Algorithms-in-Java-6th-Edition - Michael T. Goodrich, Roberto Tamassia and Michael H. Goldwasser",
+    "url": "Reference%20Books/553%20-%20Data-Structures-and-Algorithms-in-Java-6th-Edition%20-%20Michael%20T.%20Goodrich%2C%20Roberto%20Tamassia%20and%20Michael%20H.%20Goldwasser.pdf"
+  },
+  {
+    "name": "Database Modeling and Design, Fifth Edition Logical Design (the Morgan Kaufmann Series in Data Management Systems) - Toby Teorey",
+    "url": "Reference%20Books/554%20-%20Database%20Modeling%20and%20Design%2C%20Fifth%20Edition%20Logical%20Design%20%28the%20Morgan%20Kaufmann%20Series%20in%20Data%20Management%20Systems%29%20-%20Toby%20Teorey.pdf"
+  },
+  {
+    "name": "Database System Concepts - Abraham Silberschatz, Henry F. Korth and S. Sudarshan",
+    "url": "Reference%20Books/556%20-%20Database%20System%20Concepts%20-%20Abraham%20Silberschatz%2C%20Henry%20F.%20Korth%20and%20S.%20Sudarshan.pdf"
+  },
+  {
+    "name": "Database System Concepts, Sixth Edition - Abraham Silberschatz",
+    "url": "Reference%20Books/557%20-%20Database%20System%20Concepts%2C%20Sixth%20Edition%20-%20Abraham%20Silberschatz.pdf"
+  },
+  {
+    "name": "Database Systems Design, Implementation, and Management - Carlos Coronel Steven Morris",
+    "url": "Reference%20Books/558%20-%20Database%20Systems%20Design%2C%20Implementation%2C%20and%20Management%20-%20Carlos%20Coronel%20Steven%20Morris.pdf"
+  },
+  {
+    "name": "DB-Dr-Rohanirankoohi-V1 Www.aghazeh.com",
+    "url": "Reference%20Books/559%20-%20DB-Dr-Rohanirankoohi-V1%20Www.aghazeh.com.pdf"
+  },
+  {
+    "name": "Deep Learning for Computer Vision - Image Classification, Object Detection and Face Recognition in Python - Jason Brownlee",
+    "url": "Reference%20Books/560%20-%20Deep%20Learning%20for%20Computer%20Vision%20-%20Image%20Classification%2C%20Object%20Detection%20and%20Face%20Recognition%20in%20Python%20-%20Jason%20Brownlee.pdf"
+  },
+  {
+    "name": "Deep Learning for Natural Language Processing Develop Deep Learning Models for Natural Language in Python - Jason Brownlee",
+    "url": "Reference%20Books/561%20-%20Deep%20Learning%20for%20Natural%20Language%20Processing%20Develop%20Deep%20Learning%20Models%20for%20Natural%20Language%20in%20Python%20-%20Jason%20Brownlee.pdf"
+  },
+  {
+    "name": "Deep Learning for Time Series Forecasting - Predict the Future with Mlps, Cnns and Lstms in Python - Jason Brownlee",
+    "url": "Reference%20Books/562%20-%20Deep%20Learning%20for%20Time%20Series%20Forecasting%20-%20Predict%20the%20Future%20with%20Mlps%2C%20Cnns%20and%20Lstms%20in%20Python%20-%20Jason%20Brownlee.pdf"
+  },
+  {
+    "name": "Deep Learning with Python Develop Deep Learning Models on Theano and Tensorflow Using Keras - Jason Brownlee",
+    "url": "Reference%20Books/563%20-%20Deep%20Learning%20with%20Python%20Develop%20Deep%20Learning%20Models%20on%20Theano%20and%20Tensorflow%20Using%20Keras%20-%20Jason%20Brownlee.pdf"
+  },
+  {
+    "name": "Deutsch Perfekt 2025-No-04",
+    "url": "Reference%20Books/564%20-%20Deutsch%20Perfekt%202025-No-04.pdf"
+  },
+  {
+    "name": "Digital Design and Computer Architecture (2nd Ed) - David Harris, Sarah Harris - David Money Harris",
+    "url": "Reference%20Books/565%20-%20Digital%20Design%20and%20Computer%20Architecture%20%282nd%20Ed%29%20-%20David%20Harris%2C%20Sarah%20Harris%20-%20David%20Money%20Harris.pdf"
+  },
+  {
+    "name": "Digital Design and Fabrication - Vojin G. Oklobdzija",
+    "url": "Reference%20Books/566%20-%20Digital%20Design%20and%20Fabrication%20-%20Vojin%20G.%20Oklobdzija.pdf"
+  },
+  {
+    "name": "Digital Design with an Introduction to the Verilog HDL, VHDL, and Systemverilog - Vitalsource Download",
+    "url": "Reference%20Books/567%20-%20Digital%20Design%20with%20an%20Introduction%20to%20the%20Verilog%20HDL%2C%20VHDL%2C%20and%20Systemverilog%20-%20Vitalsource%20Download.pdf"
+  },
+  {
+    "name": "Digital Logic and Computer Design - M. Morris Mano",
+    "url": "Reference%20Books/568%20-%20Digital%20Logic%20and%20Computer%20Design%20-%20M.%20Morris%20Mano.pdf"
+  },
+  {
+    "name": "Digital Logic Circuit Analysis and Design - Nelson",
+    "url": "Reference%20Books/569%20-%20Digital%20Logic%20Circuit%20Analysis%20and%20Design%20-%20Nelson.pdf"
+  },
+  {
+    "name": "Digital Image Processing Gonzalez, Rafael C Woods, Richard E Z Lib",
+    "url": "Reference%20Books/570%20-%20Digital%20Image%20Processing%20Gonzalez%2C%20Rafael%20C%20Woods%2C%20Richard%20E%20Z%20Lib.pdf"
+  },
+  {
+    "name": "Discrete and Combinatorial Mathematics, 5e (instructors Solution Manual) - Ralph P. Grimaldi",
+    "url": "Reference%20Books/571%20-%20Discrete%20and%20Combinatorial%20Mathematics%2C%205e%20%28instructors%20Solution%20Manual%29%20-%20Ralph%20P.%20Grimaldi.pdf"
+  },
+  {
+    "name": "Discrete and Combinatorial Mathematics an Applied Introduction - Gordon Fogus",
+    "url": "Reference%20Books/572%20-%20Discrete%20and%20Combinatorial%20Mathematics%20an%20Applied%20Introduction%20-%20Gordon%20Fogus.pdf"
+  },
+  {
+    "name": "Discrete Mathematics an Open Introduction Oscar Levin 3rd Edition",
+    "url": "Reference%20Books/573%20-%20Discrete%20Mathematics%20an%20Open%20Introduction%20Oscar%20Levin%203rd%20Edition.pdf"
+  },
+  {
+    "name": "Discrete Mathematics and Its Applications - Kenneth H. Rosen",
+    "url": "Reference%20Books/574%20-%20Discrete%20Mathematics%20and%20Its%20Applications%20-%20Kenneth%20H.%20Rosen.pdf"
+  },
+  {
+    "name": "Discrete Mathematics with Applications Fifth Edition - Susanna S. Epp",
+    "url": "Reference%20Books/575%20-%20Discrete%20Mathematics%20with%20Applications%20Fifth%20Edition%20-%20Susanna%20S.%20Epp.pdf"
+  },
+  {
+    "name": "Dive into Design Patterns",
+    "url": "Reference%20Books/576%20-%20Dive%20into%20Design%20Patterns.pdf"
+  },
+  {
+    "name": "Eli Bildwörterbuch Deutsch",
+    "url": "Reference%20Books/577%20-%20Eli%20Bildwo%CC%88rterbuch%20Deutsch.pdf"
+  },
+  {
+    "name": "Fundamentals of Database Systems - Ramez Elmasri and Shamkant B. Navathe",
+    "url": "Reference%20Books/578%20-%20Fundamentals%20of%20Database%20Systems%20-%20Ramez%20Elmasri%20and%20Shamkant%20B.%20Navathe.pdf"
+  },
+  {
+    "name": "Essentials of Computer Architecture - Douglas Comer - Douglas Comer",
+    "url": "Reference%20Books/579%20-%20Essentials%20of%20Computer%20Architecture%20-%20Douglas%20Comer%20-%20Douglas%20Comer.pdf"
+  },
+  {
+    "name": "Exercise Solution for Artificial Intelligence",
+    "url": "Reference%20Books/580%20-%20Exercise%20Solution%20for%20Artificial%20Intelligence.pdf"
+  },
+  {
+    "name": "Formal Languages and Automata Theory - K.V.N. Sunitha",
+    "url": "Reference%20Books/581%20-%20Formal%20Languages%20and%20Automata%20Theory%20-%20K.V.N.%20Sunitha.pdf"
+  },
+  {
+    "name": "Data Communications and Networking - Behrouz A. Forouzan",
+    "url": "Reference%20Books/582%20-%20Data%20Communications%20and%20Networking%20-%20Behrouz%20A.%20Forouzan.pdf"
+  },
+  {
+    "name": "Fundamentals of Database Systems - Ramez Elmasri, Shamkant B. Navathe",
+    "url": "Reference%20Books/583%20-%20Fundamentals%20of%20Database%20Systems%20-%20Ramez%20Elmasri%2C%20Shamkant%20B.%20Navathe.pdf"
+  },
+  {
+    "name": "Fundamentals of Digital Logic with Verilog Design - Stephen Brown and Zvonko Vranesic",
+    "url": "Reference%20Books/584%20-%20Fundamentals%20of%20Digital%20Logic%20with%20Verilog%20Design%20-%20Stephen%20Brown%20and%20Zvonko%20Vranesic.pdf"
+  },
+  {
+    "name": "Fundamentals of Digital Logic with VHDL Design 3rd Edition Stephen Brown - Stephen Brown",
+    "url": "Reference%20Books/585%20-%20Fundamentals%20of%20Digital%20Logic%20with%20VHDL%20Design%203rd%20Edition%20Stephen%20Brown%20-%20Stephen%20Brown.pdf"
+  },
+  {
+    "name": "Generative Adversarial Networks with Python Deep Learning Generative Models for Image Synthesis and Image Translation - Jason Brownlee",
+    "url": "Reference%20Books/586%20-%20Generative%20Adversarial%20Networks%20with%20Python%20Deep%20Learning%20Generative%20Models%20for%20Image%20Synthesis%20and%20Image%20Translation%20-%20Jason%20Brownlee.pdf"
+  },
+  {
+    "name": "German Business Dictionary - Simon Collin",
+    "url": "Reference%20Books/587%20-%20German%20Business%20Dictionary%20-%20Simon%20Collin.pdf"
+  },
+  {
+    "name": "German-English Bilingual Visual Dictionary",
+    "url": "Reference%20Books/588%20-%20German-English%20Bilingual%20Visual%20Dictionary.pdf"
+  },
+  {
+    "name": "Goethe-Zertifikat A2 Wortliste - F.Brandl",
+    "url": "Reference%20Books/589%20-%20Goethe-Zertifikat%20A2%20Wortliste%20-%20F.Brandl.pdf"
+  },
+  {
+    "name": "Goethe-Zertifikat B1 Wortliste - F.Brandl",
+    "url": "Reference%20Books/590%20-%20Goethe-Zertifikat%20B1%20Wortliste%20-%20F.Brandl.pdf"
+  },
+  {
+    "name": "Grammar in Use - Fifth Edition [www.languagecentre.ir]",
+    "url": "Reference%20Books/591%20-%20Grammar%20in%20Use%20-%20Fifth%20Edition%20%5Bwww.languagecentre.ir%5D.pdf"
+  },
+  {
+    "name": "Grammatik Aktiv A1-B1",
+    "url": "Reference%20Books/592%20-%20Grammatik%20Aktiv%20A1-B1.pdf"
+  },
+  {
+    "name": "Grokking Algorithms an Illustrated Guide for Programmers and Other Curious People - Aditya Y. Bhargava",
+    "url": "Reference%20Books/593%20-%20Grokking%20Algorithms%20an%20Illustrated%20Guide%20for%20Programmers%20and%20Other%20Curious%20People%20-%20Aditya%20Y.%20Bhargava.pdf"
+  },
+  {
+    "name": "Grokking-Algorithms - Aditya Y. Bhargava",
+    "url": "Reference%20Books/594%20-%20Grokking-Algorithms%20-%20Aditya%20Y.%20Bhargava.pdf"
+  },
+  {
+    "name": "Grokking-Functional-Programming - Michał Płachta",
+    "url": "Reference%20Books/595%20-%20Grokking-Functional-Programming%20-%20Micha%C5%82%20P%C5%82achta.pdf"
+  },
+  {
+    "name": "Grokking-Machine-Learning-Meap - Luis G. Serrano",
+    "url": "Reference%20Books/596%20-%20Grokking-Machine-Learning-Meap%20-%20Luis%20G.%20Serrano.pdf"
+  },
+  {
+    "name": "Handbook of Discrete and Combinatorial Mathematics - KENNETH H. ROSEN Et Al",
+    "url": "Reference%20Books/597%20-%20Handbook%20of%20Discrete%20and%20Combinatorial%20Mathematics%20-%20KENNETH%20H.%20ROSEN%20Et%20Al.pdf"
+  },
+  {
+    "name": "Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow - Aurélien Géron",
+    "url": "Reference%20Books/598%20-%20Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow%20-%20Aure%CC%81lien%20Ge%CC%81ron.pdf"
+  },
+  {
+    "name": "Head First Design Patterns, 2nd Edition - Eric Freeman, Elisabeth Robson",
+    "url": "Reference%20Books/599%20-%20Head%20First%20Design%20Patterns%2C%202nd%20Edition%20-%20Eric%20Freeman%2C%20Elisabeth%20Robson.pdf"
+  },
+  {
+    "name": "Fundamentals of Data Structures - Ellis Horowitz, Sartaj Sahni, and Sanguthevar Rajasekaran",
+    "url": "Reference%20Books/600%20-%20Fundamentals%20of%20Data%20Structures%20-%20Ellis%20Horowitz%2C%20Sartaj%20Sahni%2C%20and%20Sanguthevar%20Rajasekaran.pdf"
+  },
+  {
+    "name": "How to Lie with Statistics - Darrell Huff",
+    "url": "Reference%20Books/601%20-%20How%20to%20Lie%20with%20Statistics%20-%20Darrell%20Huff.pdf"
+  },
+  {
+    "name": "Imbalanced Classification with Python Choose Better Metrics, Balance Skewed Classes, and Apply Cost-Sensitive Learning - Jason Brownlee",
+    "url": "Reference%20Books/602%20-%20Imbalanced%20Classification%20with%20Python%20Choose%20Better%20Metrics%2C%20Balance%20Skewed%20Classes%2C%20and%20Apply%20Cost-Sensitive%20Learning%20-%20Jason%20Brownlee.pdf"
+  },
+  {
+    "name": "Instructor’s Manual Formal Languages and Automata - Peter Linz",
+    "url": "Reference%20Books/603%20-%20Instructor%E2%80%99s%20Manual%20Formal%20Languages%20and%20Automata%20-%20Peter%20Linz.pdf"
+  },
+  {
+    "name": "Introduction to Automata Theory, Formal Languages and Computation - Sundaramoorthys",
+    "url": "Reference%20Books/604%20-%20Introduction%20to%20Automata%20Theory%2C%20Formal%20Languages%20and%20Computation%20-%20Sundaramoorthys.pdf"
+  },
+  {
+    "name": "Introduction to Logic Circuits & Logic Design with Verilog",
+    "url": "Reference%20Books/605%20-%20Introduction%20to%20Logic%20Circuits%20%26%20Logic%20Design%20with%20Verilog.pdf"
+  },
+  {
+    "name": "Introduction to Machine Learning with Python - Andreas C. Müller and Sarah Guido",
+    "url": "Reference%20Books/606%20-%20Introduction%20to%20Machine%20Learning%20with%20Python%20-%20Andreas%20C.%20Mu%CC%88ller%20and%20Sarah%20Guido.pdf"
+  },
+  {
+    "name": "Introduction to Time Series Forecasting with Python How to Prepare Data and Develop Models to Predict the Future - Jason Brownlee",
+    "url": "Reference%20Books/607%20-%20Introduction%20to%20Time%20Series%20Forecasting%20with%20Python%20How%20to%20Prepare%20Data%20and%20Develop%20Models%20to%20Predict%20the%20Future%20-%20Jason%20Brownlee.pdf"
+  },
+  {
+    "name": "Introduction.to.algorithms.4th.leiserson.stein.rivest.cormen.mit.press.9780262046305",
+    "url": "Reference%20Books/608%20-%20Introduction.to.algorithms.4th.leiserson.stein.rivest.cormen.mit.press.9780262046305.pdf"
+  },
+  {
+    "name": "Powerpoint Presentation - Siamak",
+    "url": "Reference%20Books/609%20-%20Powerpoint%20Presentation%20-%20Siamak.pdf"
+  },
+  {
+    "name": "Algorithms - Jeff Erickson",
+    "url": "Reference%20Books/610%20-%20Algorithms%20-%20Jeff%20Erickson.pdf"
+  },
+  {
+    "name": "Advanced Engineering Mathematics, 10th Edition - Erwin Kreyszig",
+    "url": "Reference%20Books/611%20-%20Advanced%20Engineering%20Mathematics%2C%2010th%20Edition%20-%20Erwin%20Kreyszig.pdf"
+  },
+  {
+    "name": "Computer Networking: A Top-Down Approach - James F. Kurose and Keith W. Ross",
+    "url": "Reference%20Books/612%20-%20Computer%20Networking%3A%20A%20Top-Down%20Approach%20-%20James%20F.%20Kurose%20and%20Keith%20W.%20Ross.pdf"
+  },
+  {
+    "name": "Probability, Statistics, and Random Processes for Electrical Engineering - Alberto Leon-Garcia",
+    "url": "Reference%20Books/613%20-%20Probability%2C%20Statistics%2C%20and%20Random%20Processes%20for%20Electrical%20Engineering%20-%20Alberto%20Leon-Garcia.pdf"
+  },
+  {
+    "name": "Schaum's Outline of Discrete Mathematics, Third Edition (schaum's Outlines) - Seymour Lipschutz, Marc Lipson",
+    "url": "Reference%20Books/614%20-%20Schaum%27s%20Outline%20of%20Discrete%20Mathematics%2C%20Third%20Edition%20%28schaum%27s%20Outlines%29%20-%20Seymour%20Lipschutz%2C%20Marc%20Lipson.pdf"
+  },
+  {
+    "name": "Long Short-Term Memory Networks with Python Develop Sequence Prediction Models with Deep Learning - Jason Brownlee",
+    "url": "Reference%20Books/615%20-%20Long%20Short-Term%20Memory%20Networks%20with%20Python%20Develop%20Sequence%20Prediction%20Models%20with%20Deep%20Learning%20-%20Jason%20Brownlee.pdf"
+  },
+  {
+    "name": "Luciano-Ramalho-Fluent-Python -Clear-Concise-and-Effective-Programming-Oreilly-Media-2022 - Luciano Ramalho",
+    "url": "Reference%20Books/616%20-%20Luciano-Ramalho-Fluent-Python%20-Clear-Concise-and-Effective-Programming-Oreilly-Media-2022%20-%20Luciano%20Ramalho.pdf"
+  },
+  {
+    "name": "Machine Leanring Andrew Ng",
+    "url": "Reference%20Books/617%20-%20Machine%20Leanring%20Andrew%20Ng.pdf"
+  },
+  {
+    "name": "Machine Learning a Probabilistic Perspective - Kevin P. Murphy",
+    "url": "Reference%20Books/618%20-%20Machine%20Learning%20a%20Probabilistic%20Perspective%20-%20Kevin%20P.%20Murphy.pdf"
+  },
+  {
+    "name": "Machine Learning Algorithms from Scratch with Python - Jason Brownlee",
+    "url": "Reference%20Books/619%20-%20Machine%20Learning%20Algorithms%20from%20Scratch%20with%20Python%20-%20Jason%20Brownlee.pdf"
+  },
+  {
+    "name": "Machine Learning Mastery with Python Understand Your Data, Create Accurate Models and Work Projects End-to-End - Jason Brownlee",
+    "url": "Reference%20Books/620%20-%20Machine%20Learning%20Mastery%20with%20Python%20Understand%20Your%20Data%2C%20Create%20Accurate%20Models%20and%20Work%20Projects%20End-to-End%20-%20Jason%20Brownlee.pdf"
+  },
+  {
+    "name": "Machine Learning Mastery with R - Jason Brownlee",
+    "url": "Reference%20Books/621%20-%20Machine%20Learning%20Mastery%20with%20R%20-%20Jason%20Brownlee.pdf"
+  },
+  {
+    "name": "Machine Learning with Python for Everyone - Mark E. Fenner",
+    "url": "Reference%20Books/622%20-%20Machine%20Learning%20with%20Python%20for%20Everyone%20-%20Mark%20E.%20Fenner.pdf"
+  },
+  {
+    "name": "Machine Learning Mastery with R",
+    "url": "Reference%20Books/623%20-%20Machine%20Learning%20Mastery%20with%20R.pdf"
+  },
+  {
+    "name": "Digital Design - M. Morris Mano",
+    "url": "Reference%20Books/624%20-%20Digital%20Design%20-%20M.%20Morris%20Mano.pdf"
+  },
+  {
+    "name": "Master Machine Learning Algorithms - Discover How They Work and Implement Them from Scratch - Jason Brownlee",
+    "url": "Reference%20Books/625%20-%20Master%20Machine%20Learning%20Algorithms%20-%20Discover%20How%20They%20Work%20and%20Implement%20Them%20from%20Scratch%20-%20Jason%20Brownlee.pdf"
+  },
+  {
+    "name": "Mastering Machine Learning with Python in Six Steps a Practical Implementation Guide to Predictive Data Analytics Using Python",
+    "url": "Reference%20Books/626%20-%20Mastering%20Machine%20Learning%20with%20Python%20in%20Six%20Steps%20a%20Practical%20Implementation%20Guide%20to%20Predictive%20Data%20Analytics%20Using%20Python.pdf"
+  },
+  {
+    "name": "Mastering-Opencv-4-with-Python-(alberto-Fernández-Villán) - Alberto Fernández Villán",
+    "url": "Reference%20Books/627%20-%20Mastering-Opencv-4-with-Python-%28alberto-Ferna%CC%81ndez-Villa%CC%81n%29%20-%20Alberto%20Ferna%CC%81ndez%20Villa%CC%81n.pdf"
+  },
+  {
+    "name": "McGraw.hill.discrete.mathematics.and.its.applications.7th.edition.jun.2011",
+    "url": "Reference%20Books/628%20-%20McGraw.hill.discrete.mathematics.and.its.applications.7th.edition.jun.2011.pdf"
+  },
+  {
+    "name": "Concepts in Programming Languages - John C. Mitchell, Krzysztof Apt",
+    "url": "Reference%20Books/629%20-%20Concepts%20in%20Programming%20Languages%20-%20John%20C.%20Mitchell%2C%20Krzysztof%20Apt.pdf"
+  },
+  {
+    "name": "Modern Operating Systems - Andrew S. Tanenbaum, Herbert Bos",
+    "url": "Reference%20Books/630%20-%20Modern%20Operating%20Systems%20-%20Andrew%20S.%20Tanenbaum%2C%20Herbert%20Bos.pdf"
+  },
+  {
+    "name": "Morris-Mano-Computer-System-Architecture",
+    "url": "Reference%20Books/631%20-%20Morris-Mano-Computer-System-Architecture.pdf"
+  },
+  {
+    "name": "Operating System Concepts - Abraham Silberschatz, Peter B. Galvin, Greg Gagne",
+    "url": "Reference%20Books/632%20-%20Operating%20System%20Concepts%20-%20Abraham%20Silberschatz%2C%20Peter%20B.%20Galvin%2C%20Greg%20Gagne.pdf"
+  },
+  {
+    "name": "Operating Systems Internals and Design Principles - William Stallings",
+    "url": "Reference%20Books/633%20-%20Operating%20Systems%20Internals%20and%20Design%20Principles%20-%20William%20Stallings.pdf"
+  },
+  {
+    "name": "Operating Systems Three Easy Pieces - Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau",
+    "url": "Reference%20Books/634%20-%20Operating%20Systems%20Three%20Easy%20Pieces%20-%20Remzi%20H.%20Arpaci-Dusseau%2C%20Andrea%20C.%20Arpaci-Dusseau.pdf"
+  },
+  {
+    "name": "Operating-System-Concepts-10th-Abraham Silberschatz - Abraham Silberschatz, Peter Baer Galvin and Greg Gagne",
+    "url": "Reference%20Books/635%20-%20Operating-System-Concepts-10th-Abraham%20Silberschatz%20-%20Abraham%20Silberschatz%2C%20Peter%20Baer%20Galvin%20and%20Greg%20Gagne.pdf"
+  },
+  {
+    "name": "Oreilly-Designing-Data-Intensive-Applications - Martin Kleppmann",
+    "url": "Reference%20Books/636%20-%20Oreilly-Designing-Data-Intensive-Applications%20-%20Martin%20Kleppmann.pdf"
+  },
+  {
+    "name": "P Compilers Alfred V.aho",
+    "url": "Reference%20Books/637%20-%20P%20Compilers%20Alfred%20V.aho.pdf"
+  },
+  {
+    "name": "Practical Machine Learning and Image Processing for Facial Recognition",
+    "url": "Reference%20Books/638%20-%20Practical%20Machine%20Learning%20and%20Image%20Processing%20for%20Facial%20Recognition.pdf"
+  },
+  {
+    "name": "Software Engineering: A Practitioner's Approach - Roger S Pressman",
+    "url": "Reference%20Books/639%20-%20Software%20Engineering%3A%20A%20Practitioner%27s%20Approach%20-%20Roger%20S%20Pressman.pdf"
+  },
+  {
+    "name": "Principles-of-Digital-Image-Processing-Fundamental-Techniques",
+    "url": "Reference%20Books/640%20-%20Principles-of-Digital-Image-Processing-Fundamental-Techniques.pdf"
+  },
+  {
+    "name": "Probability and Statistics for Engineers and Scientists Ninth Edition Walpole Myers Ye",
+    "url": "Reference%20Books/641%20-%20Probability%20and%20Statistics%20for%20Engineers%20and%20Scientists%20Ninth%20Edition%20Walpole%20Myers%20Ye.pdf"
+  },
+  {
+    "name": "Probability and Statistics for Science and Engineering with Examples in R - Hongshik Ahn",
+    "url": "Reference%20Books/642%20-%20Probability%20and%20Statistics%20for%20Science%20and%20Engineering%20with%20Examples%20in%20R%20-%20Hongshik%20Ahn.pdf"
+  },
+  {
+    "name": "Probability for Machine Learning - Discover How to Harness Uncertainty with Python - Jason Brownlee",
+    "url": "Reference%20Books/643%20-%20Probability%20for%20Machine%20Learning%20-%20Discover%20How%20to%20Harness%20Uncertainty%20with%20Python%20-%20Jason%20Brownlee.pdf"
+  },
+  {
+    "name": "Python Artificial Intelligence Projects for Beginners - Get Up and Running with 8 Smart and Exciting AI Applications - Eckroth, Joshua",
+    "url": "Reference%20Books/644%20-%20Python%20Artificial%20Intelligence%20Projects%20for%20Beginners%20-%20Get%20Up%20and%20Running%20with%208%20Smart%20and%20Exciting%20AI%20Applications%20-%20Eckroth%2C%20Joshua.pdf"
+  },
+  {
+    "name": "Python for Programmers with Big Data and Artificial Intelligence Case Studies - Paul Deltel and Harvey Deltel",
+    "url": "Reference%20Books/645%20-%20Python%20for%20Programmers%20with%20Big%20Data%20and%20Artificial%20Intelligence%20Case%20Studies%20-%20Paul%20Deltel%20and%20Harvey%20Deltel.pdf"
+  },
+  {
+    "name": "Robust-Python-Write-Clean-and-Maintainable-Code-1nbsped-1098100662-9781098100667 - Patrick Viafore",
+    "url": "Reference%20Books/646%20-%20Robust-Python-Write-Clean-and-Maintainable-Code-1nbsped-1098100662-9781098100667%20-%20Patrick%20Viafore.pdf"
+  },
+  {
+    "name": "Shaffer - Clifford A. Shaffer",
+    "url": "Reference%20Books/647%20-%20Shaffer%20-%20Clifford%20A.%20Shaffer.pdf"
+  },
+  {
+    "name": "A First Course in Probability - Sheldon Ross",
+    "url": "Reference%20Books/648%20-%20A%20First%20Course%20in%20Probability%20-%20Sheldon%20Ross.pdf"
+  },
+  {
+    "name": "Signals and Systems 2e Oppenheim Willsky Solutions",
+    "url": "Reference%20Books/649%20-%20Signals%20and%20Systems%202e%20Oppenheim%20Willsky%20Solutions.pdf"
+  },
+  {
+    "name": "Introduction to the Theory of Computation, 3rd Ed - Michael Sipser",
+    "url": "Reference%20Books/650%20-%20Introduction%20to%20the%20Theory%20of%20Computation%2C%203rd%20Ed%20-%20Michael%20Sipser.pdf"
+  },
+  {
+    "name": "Software Engineering a Practitioners Approach - Roger Pressman, Bruce Maxim",
+    "url": "Reference%20Books/651%20-%20Software%20Engineering%20a%20Practitioners%20Approach%20-%20Roger%20Pressman%2C%20Bruce%20Maxim.pdf"
+  },
+  {
+    "name": "Software Engineering at Google - Hyrum Wright, Tom Manshreck, Titus Winters",
+    "url": "Reference%20Books/652%20-%20Software%20Engineering%20at%20Google%20-%20Hyrum%20Wright%2C%20Tom%20Manshreck%2C%20Titus%20Winters.pdf"
+  },
+  {
+    "name": "Software Engineering with UML - Bhuvan Unhelkar",
+    "url": "Reference%20Books/653%20-%20Software%20Engineering%20with%20UML%20-%20Bhuvan%20Unhelkar.pdf"
+  },
+  {
+    "name": "Software Engineering, 10th Edition - Ian Sommerville",
+    "url": "Reference%20Books/654%20-%20Software%20Engineering%2C%2010th%20Edition%20-%20Ian%20Sommerville.pdf"
+  },
+  {
+    "name": "Solution-Manual-of-Communication-Networks-by-Alberto-Leon-Garcia-Indra-Widjaja",
+    "url": "Reference%20Books/655%20-%20Solution-Manual-of-Communication-Networks-by-Alberto-Leon-Garcia-Indra-Widjaja.pdf"
+  },
+  {
+    "name": "Solutions 7th Edition - Jim Kurose and Keith Ross",
+    "url": "Reference%20Books/656%20-%20Solutions%207th%20Edition%20-%20Jim%20Kurose%20and%20Keith%20Ross.pdf"
+  },
+  {
+    "name": "Computer Networking: A Top-Down Approach Solutions - James F. Kurose and Keith W. Ross",
+    "url": "Reference%20Books/657%20-%20Computer%20Networking%3A%20A%20Top-Down%20Approach%20Solutions%20-%20James%20F.%20Kurose%20and%20Keith%20W.%20Ross.pdf"
+  },
+  {
+    "name": "Data and Computer Communications - William Stallings and Moumita Mitra Manna",
+    "url": "Reference%20Books/658%20-%20Data%20and%20Computer%20Communications%20-%20William%20Stallings%20and%20Moumita%20Mitra%20Manna.pdf"
+  },
+  {
+    "name": "Computer Organization and Architecture: Designing for Performance (8th Edition) - William Stallings",
+    "url": "Reference%20Books/659%20-%20Computer%20Organization%20and%20Architecture%3A%20Designing%20for%20Performance%20%288th%20Edition%29%20-%20William%20Stallings.pdf"
+  },
+  {
+    "name": "Statistical Methods for Machine Learning Discover How to Transform Data into Knowledge with Python - Jason Brownlee",
+    "url": "Reference%20Books/660%20-%20Statistical%20Methods%20for%20Machine%20Learning%20Discover%20How%20to%20Transform%20Data%20into%20Knowledge%20with%20Python%20-%20Jason%20Brownlee.pdf"
+  },
+  {
+    "name": "Student's Solutions Guide Seventh Edition Rosen - Jerrold Grossman",
+    "url": "Reference%20Books/661%20-%20Student%27s%20Solutions%20Guide%20Seventh%20Edition%20Rosen%20-%20Jerrold%20Grossman.pdf"
+  },
+  {
+    "name": "System Design Interview – An Insider’s Guide, 2nd Edition - Alex Xu",
+    "url": "Reference%20Books/662%20-%20System%20Design%20Interview%20%E2%80%93%20An%20Insider%E2%80%99s%20Guide%2C%202nd%20Edition%20-%20Alex%20Xu.pdf"
+  },
+  {
+    "name": "The Art of R Programming a Tour of Statistical Software Design - Norman Matloff",
+    "url": "Reference%20Books/663%20-%20The%20Art%20of%20R%20Programming%20a%20Tour%20of%20Statistical%20Software%20Design%20-%20Norman%20Matloff.pdf"
+  },
+  {
+    "name": "The Book of R a First Course in Programming and Statistics - Tilman M. Davies",
+    "url": "Reference%20Books/664%20-%20The%20Book%20of%20R%20a%20First%20Course%20in%20Programming%20and%20Statistics%20-%20Tilman%20M.%20Davies.pdf"
+  },
+  {
+    "name": "XGBoost with Python Gradient Boosted Trees with XGBoost and Scikit-Learn - Jason Brownlee",
+    "url": "Reference%20Books/665%20-%20XGBoost%20with%20Python%20Gradient%20Boosted%20Trees%20with%20XGBoost%20and%20Scikit-Learn%20-%20Jason%20Brownlee.pdf"
+  },
+  {
+    "name": "AI Engineering (Chip Huyen)",
+    "url": "Reference%20Books/666%20-%20AI%20Engineering%20%28Chip%20Huyen%29.pdf"
+  },
+  {
+    "name": "Certified Ethical Hacker (CEH) Version 10 Cert Guide, Third Edition (Michael Gregg  Omar Santos)",
+    "url": "Reference%20Books/667%20-%20Certified%20Ethical%20Hacker%20%28CEH%29%20Version%2010%20Cert%20Guide%2C%20Third%20Edition%20%28Michael%20Gregg%20%20Omar%20Santos%29.pdf"
+  },
+  {
+    "name": "Clean Agile Back to Basics (Robert C. Martin)",
+    "url": "Reference%20Books/668%20-%20Clean%20Agile%20Back%20to%20Basics%20%28Robert%20C.%20Martin%29.pdf"
+  },
+  {
+    "name": "CP2020_Guidebook_EN",
+    "url": "Reference%20Books/669%20-%20CP2020_Guidebook_EN.pdf"
+  },
+  {
+    "name": "Data Science from Scratch (Joel Grus)",
+    "url": "Reference%20Books/670%20-%20Data%20Science%20from%20Scratch%20%28Joel%20Grus%29.pdf"
+  },
+  {
+    "name": "Data Science from Scratch First Principles with Python (Joel Grus)",
+    "url": "Reference%20Books/671%20-%20Data%20Science%20from%20Scratch%20First%20Principles%20with%20Python%20%28Joel%20Grus%29.pdf"
+  },
+  {
+    "name": "Deep Learning for Coders with Fastai and PyTorch (Sylvain Gugger, Jeremy Howard)",
+    "url": "Reference%20Books/672%20-%20Deep%20Learning%20for%20Coders%20with%20Fastai%20and%20PyTorch%20%28Sylvain%20Gugger%2C%20Jeremy%20Howard%29.pdf"
+  },
+  {
+    "name": "Deep Learning for Coders with fastai and PyTorch AI Applications Without a PhD (Jeremy Howard, Sylvain Gugger)",
+    "url": "Reference%20Books/673%20-%20Deep%20Learning%20for%20Coders%20with%20fastai%20and%20PyTorch%20AI%20Applications%20Without%20a%20PhD%20%28Jeremy%20Howard%2C%20Sylvain%20Gugger%29.pdf"
+  },
+  {
+    "name": "Digital Image Processing 4th Edition (Rafael C. Gonzalez Richard E. Woods)",
+    "url": "Reference%20Books/674%20-%20Digital%20Image%20Processing%204th%20Edition%20%28Rafael%20C.%20Gonzalez%20Richard%20E.%20Woods%29.pdf"
+  },
+  {
+    "name": "Essentials of Metaheuristics (Sean Luke)",
+    "url": "Reference%20Books/675%20-%20Essentials%20of%20Metaheuristics%20%28Sean%20Luke%29.pdf"
+  },
+  {
+    "name": "Grokking Artificial Intelligence Algorithms (Rishal Hurbans)",
+    "url": "Reference%20Books/676%20-%20Grokking%20Artificial%20Intelligence%20Algorithms%20%28Rishal%20Hurbans%29.pdf"
+  },
+  {
+    "name": "grokking Deep Learning (Andrew W. Trask)",
+    "url": "Reference%20Books/677%20-%20grokking%20Deep%20Learning%20%28Andrew%20W.%20Trask%29.pdf"
+  },
+  {
+    "name": "JavaScript The Good Parts (Douglas Crockford)",
+    "url": "Reference%20Books/678%20-%20JavaScript%20The%20Good%20Parts%20%28Douglas%20Crockford%29.pdf"
+  },
+  {
+    "name": "Mathematics for Machine Learning (Marc Peter Deisenroth, A. Aldo Faisal etc.)",
+    "url": "Reference%20Books/679%20-%20Mathematics%20for%20Machine%20Learning%20%28Marc%20Peter%20Deisenroth%2C%20A.%20Aldo%20Faisal%20etc.%29.pdf"
+  },
+  {
+    "name": "Natural Language Processing with Python and spaCy (Yuli Vasiliev)",
+    "url": "Reference%20Books/680%20-%20Natural%20Language%20Processing%20with%20Python%20and%20spaCy%20%28Yuli%20Vasiliev%29.pdf"
+  },
+  {
+    "name": "Natural Language Processing with Transformers Building Language Applications with Hugging Face (Lewis Tunstall, Leandro von Werra etc.)",
+    "url": "Reference%20Books/681%20-%20Natural%20Language%20Processing%20with%20Transformers%20Building%20Language%20Applications%20with%20Hugging%20Face%20%28Lewis%20Tunstall%2C%20Leandro%20von%20Werra%20etc.%29.pdf"
+  },
+  {
+    "name": "Practical Deep Learning A Python-Based Introduction (Ronald T. Kneusel [Ron Kneusel])",
+    "url": "Reference%20Books/682%20-%20Practical%20Deep%20Learning%20A%20Python-Based%20Introduction%20%28Ronald%20T.%20Kneusel%20%5BRon%20Kneusel%5D%29.pdf"
+  },
+  {
+    "name": "Programming Computer Vision with Python Tools and algorithms for analyzing images (Jan Erik Solem)",
+    "url": "Reference%20Books/683%20-%20Programming%20Computer%20Vision%20with%20Python%20Tools%20and%20algorithms%20for%20analyzing%20images%20%28Jan%20Erik%20Solem%29.pdf"
+  },
+  {
+    "name": "The Clean Coder A Code of Conduct For Professional Programmers (Robert C. Martin)",
+    "url": "Reference%20Books/684%20-%20The%20Clean%20Coder%20A%20Code%20of%20Conduct%20For%20Professional%20Programmers%20%28Robert%20C.%20Martin%29.pdf"
+  }
+]
